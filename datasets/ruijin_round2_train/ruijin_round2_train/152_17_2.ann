@@ -1,0 +1,604 @@
+T5	Disease 1366 1372	1 型糖尿病
+T6	Disease 1385 1389;1390 1392	1 型糖 尿病
+T7	Disease 1476 1482	1 型糖尿病
+T29	Disease 35 41	2 型糖尿病
+T30	Disease 120 126	2 型糖尿病
+T31	Disease 175 181	2 型糖尿病
+T32	Disease 230 236	2 型糖尿病
+T33	Disease 253 259	2 型糖尿病
+T34	Disease 309 315	2 型糖尿病
+T35	Disease 1242 1248	2 型糖尿病
+T36	Disease 1598 1604	2 型糖尿病
+T37	Disease 1654 1660	2 型糖尿病
+T38	Disease 2017 2023	2 型糖尿病
+T39	Disease 3170 3176	2 型糖尿病
+T40	Disease 3437 3443	2 型糖尿病
+T41	Disease 3713 3716;3717 3720	2 型 糖尿病
+T42	Disease 4292 4298	2 型糖尿病
+T43	Disease 4628 4634	2 型糖尿病
+T44	Disease 4728 4734	2 型糖尿病
+T57	Test 3031 3036	HBA1C
+T58	Test 3067 3072	HBA1C
+T59	Test 3088 3093	HBA1C
+T62	Test 318 320;321 323	空腹 血糖
+T63	Test 407 411	空腹血糖
+T64	Test 4437 4441	空腹血糖
+T66	Test 412 415	FPG
+T67	Test 609 612	FPG
+T68	Test 629 632	FPG
+T69	Test 664 667	FPG
+T70	Test 743 746	FPG
+T71	Test 783 786	FPG
+T72	Test 894 897	FPG
+T74	Disease 2652 2654;2655 2658	妊娠 糖尿病
+T75	Test 353 357	体重指数
+T76	Test 1329 1333	体重指数
+T77	Test 438 442	OGTT
+T78	Test 4539 4542	收缩压
+T79	Test 4501 4503	腰围
+T80	Test 428 437	口服葡萄糖耐量试验
+T115	Anatomy 1147 1151	β 细胞
+T116	Anatomy 1168 1172	β 细胞
+T117	Anatomy 1451 1455	β 细胞
+T118	Anatomy 1737 1741	β 细胞
+T119	Anatomy 1776 1780	β 细胞
+T120	Anatomy 1856 1860	β 细胞
+T121	Anatomy 2039 2043	β 细胞
+T122	Anatomy 2124 2128	β 细胞
+T123	Anatomy 2150 2154	β 细胞
+T124	Anatomy 2362 2366	β 细胞
+T125	Anatomy 2468 2472	β 细胞
+T126	Anatomy 2661 2665	β 细胞
+T127	Anatomy 2729 2733	β 细胞
+T128	Anatomy 2761 2765	β 细胞
+T129	Anatomy 3003 3007	β 细胞
+T130	Anatomy 3117 3121	β 细胞
+T131	Anatomy 3149 3153	β 细胞
+T132	Anatomy 3295 3299	β 细胞
+T133	Anatomy 3308 3312	β 细胞
+T134	Anatomy 3345 3349	β 细胞
+T135	Anatomy 3400 3404	β 细胞
+T136	Anatomy 3446 3450	β 细胞
+T137	Anatomy 3582 3586	β 细胞
+T138	Anatomy 3682 3686	β 细胞
+T139	Anatomy 3738 3742	β 细胞
+T140	Anatomy 3839 3843	β 细胞
+T141	Anatomy 3934 3941	成熟 β 细胞
+T142	Anatomy 3959 3963	β 细胞
+T143	Anatomy 4087 4091	β 细胞
+T144	Anatomy 4105 4109	β 细胞
+T145	Anatomy 4847 4851	β 细胞
+T146	Anatomy 5530 5534	β 细胞
+T147	Anatomy 5664 5668	β 细胞
+T148	Anatomy 5698 5702	β 细胞
+T161	Disease 1406 1410	LADA
+T162	Disease 1484 1488	LADA
+T166	Drug 1627 1631	利拉鲁肽
+T167	Drug 2135 2139	吡格列酮
+T169	Anatomy 1796 1797;1798 1800	β 细胞
+T183	Test 358 361	BMI
+T184	Test 4519 4522	BMI
+T191	Test 4484 4486	身高
+T192	Test 1250 1252	体重
+T193	Test 4418 4420	体重
+T196	Drug 1521 1526;1527 1530	DPP-4 抑制剂
+T198	Anatomy 2223 2227	mTOR
+T202	Anatomy 4939 4947	胰升糖素样肽 1
+T203	Anatomy 5542 5549	ATP6AP2
+T204	Anatomy 5627 5634	ATP6AP2
+T205	Anatomy 5653 5660	ATP6AP2
+T206	Anatomy 5687 5694	ATP6AP2
+T207	Anatomy 5721 5728	ATP6AP2
+T208	Anatomy 5772 5779	ATP6AP2
+T209	Anatomy 5793 5800	ATP6AP2
+T210	Anatomy 4968 4974	GLP-1R
+T211	Anatomy 5102 5108	GLP-1R
+T212	Anatomy 5133 5139	GLP-1R
+T213	Anatomy 5167 5173	GLP-1R
+T214	Anatomy 5210 5216	GLP-1R
+T215	Anatomy 5230 5236	GLP-1R
+T216	Anatomy 5280 5286	GLP-1R
+T217	Anatomy 5327 5333	GLP-1R
+T218	Anatomy 5368 5374	GLP-1R
+T221	Test 715 720;721 722	HOMA- β
+T222	Anatomy 3457 3462	FoxO1
+T223	Anatomy 3502 3507	FoxO1
+T224	Anatomy 3527 3532	FoxO1
+T225	Anatomy 4948 4953	GLP-1
+T226	Anatomy 4978 4983	GLP-1
+T227	Anatomy 5407 5412	GLP-1
+T228	Anatomy 5735 5740	GLP-1
+T229	Anatomy 5756 5761	GLP-1
+T253	Anatomy 3363 3366;3367 3368	β 细 胞
+T257	Anatomy 2904 2908	Pdx1
+T258	Anatomy 2930 2934	Pdx1
+T259	Anatomy 2430 2434	MafA
+T260	Anatomy 2911 2915	MafA
+T261	Anatomy 2937 2941	MafA
+T262	Disease 4586 4590	血脂异常
+T263	Test 2180 2184	TLR4
+T264	Anatomy 1963 1966	Akt
+T265	Anatomy 2678 2681	Akt
+T266	Test 962 965	AUC
+T272	Test 167 168;169 170	血 糖
+T273	Test 443 445	血糖
+T274	Test 854 856	血糖
+T275	Test 1984 1986	血糖
+T276	Test 2829 2831	血糖
+T277	Test 3625 3627	血糖
+T278	Test 3813 3815	血糖
+T279	Test 3865 3867	血糖
+T280	Test 4200 4202	血糖
+T281	Test 4336 4338	血糖
+T282	Test 4354 4356	血糖
+T283	Test 4699 4701	血糖
+T288	Test 4414 4415;4416 4417	身 高
+T289	Disease 1316 1321	视网膜病变
+T342	Reason 20 25	胰岛素抵抗
+T343	Reason 26 33	胰岛素分泌缺陷
+T344	Reason 55 60	胰岛素抵抗
+T345	Disease 66 68;69 70	糖尿 病
+T346	Reason 103 110	胰岛素分泌缺陷
+T347	Test_Value 365 380	19 ~ 30 kg / m2
+T348	Disease 601 604	糖尿病
+T349	Test_Value 632 644	<125 mg / dl
+T350	Test_Value 667 679	≤150 mg / dl
+T351	Test 724 734	早时相胰岛素分泌功能
+T352	Test_Value 746 747;748 759	< 125 mg / dl
+T353	Test_Value 786 798	>175 mg / dl
+T354	Test_Value 897 909	≥150 mg / dl
+T355	Drug 939 942	胰岛素
+T356	Disease 1253 1258	微血管病变
+T357	Disease 1291 1298	胰岛素分泌缺陷
+T358	Disease 1299 1302	糖尿病
+T359	Disease 1311 1313	超重
+T360	Disease 1322 1324	DR
+T361	Disease 1345 1347	超重
+T362	Disease 1393 1405	成人隐匿性自身免疫糖尿病
+T363	Anatomy 1431 1437	B 淋巴细胞
+T364	Anatomy 1462 1469;1470 1471	B 淋巴细胞亚 群
+T365	Treatment 1493 1498;1499 1500	免疫干预治 疗
+T366	Drug 1532 1540	α-糖苷酶抑制剂
+T367	Drug 1541 1544	AGI
+T368	Drug 1575 1578	AGI
+T369	Drug 1582 1591	DPP-4 抑制剂
+T370	Disease 1819 1821;1822 1823	糖尿 病
+T371	Operation 1829 1833	代谢手术
+T372	Anatomy 1903 1906	骨骼肌
+T373	Anatomy 1907 1909	肝脏
+T374	Anatomy 1970 1979	葡萄糖转运蛋白 4
+T375	Disease 1992 1998	高胰岛素血症
+T376	Anatomy 2056 2062	胎球蛋白 A
+T377	Anatomy 2064 2068	FetA
+T378	Anatomy 2143 2147	FetA
+T379	Drug 2202 2214	1,25(OH) 2D3
+T380	Anatomy 2378 2385	糖皮质激素受体
+T381	Anatomy 2387 2389	GR
+T382	Anatomy 2510 2514	MIN6
+T383	Operation 2606 2610	胰岛移植
+T384	Anatomy 2635 2637	胰岛
+T385	Drug 2750 2753	STZ
+T386	Amount 2746 2749	高剂量
+T387	Disease 2766 2769	糖尿病
+T388	Symptom 2815 2818	高血糖
+T389	Operation 2870 2874	代谢手术
+T390	Disease 2881 2884	糖尿病
+T391	Operation 2957 2963	袖状胃减容术
+T392	Operation 2964 2966	SG
+T393	Test_Value 3040 3043	≥7%
+T394	Test_Value 3072 3075	≥9%
+T395	Anatomy 3133 3137	Th22
+T396	Disease 3142 3147	胰岛素抵抗
+T397	Drug 3189 3192	胰岛素
+T398	Anatomy 3412 3420	MAFA / B
+T399	Anatomy 3422 3426	NKX6
+T400	Disease 3614 3617	糖尿病
+T401	Test_Value 3627 3629	正常
+T402	Anatomy 3630 3634	胰腺组织
+T403	Disease 3660 3662;3663 3664	糖尿 病
+T404	Drug 3726 3729	胰岛素
+T405	Drug 3789 3792	胰岛素
+T406	Drug 3827 3830	胰岛素
+T407	Drug 3859 3862	胰岛素
+T408	Drug 3906 3909	胰岛素
+T409	Drug 3949 3952	胰岛素
+T410	Drug 4017 4020	胰岛素
+T411	Drug 4053 4056	胰岛素
+T412	Anatomy 4096 4100	α 细胞
+T413	Disease 4120 4123	糖尿病
+T414	Anatomy 4128 4130	胰岛
+T415	Disease 4173 4176	糖尿病
+T416	Disease 4277 4280	糖尿病
+T417	Disease 4312 4315	糖尿病
+T418	Test_Value 4338 4340	升高
+T419	Disease 4343 4346	糖尿病
+T420	Symptom 4394 4399	餐后高血糖
+T421	Test 4421 4423	血压
+T422	Test 4424 4426	脉搏
+T423	Test 4443 4445	血脂
+T424	Test 4556 4558	脉搏
+T425	Disease 4599 4602	糖尿病
+T426	Drug 4689 4692	胰岛素
+T427	Drug 4716 4719	胰岛素
+T428	Disease 4745 4748	糖尿病
+T429	Disease 4752 4754	肥胖
+T430	Disease 4756 4757;4758 4762	胰 岛素抵抗
+T431	Disease 4772 4775	糖尿病
+T432	Disease 4800 4803	糖尿病
+T433	Test_Value 5676 5680	显著减少
+T638	Test 5 8	胰岛素
+T639	Test 184 191	胰岛素分泌功能
+T640	Test 208 211	胰岛素
+T641	Test_Value 615 617	升高
+T642	Test 618 620;621 624	胰岛 素敏感
+T643	Test_Value 624 628	逐级下降
+T644	Test 646 651	胰岛素敏感
+T645	Test 681 686	胰岛素敏感
+T646	Test 702 708	胰岛素敏感性
+T647	Test_Value 735 737	下降
+T648	Test 761 768	早期胰岛素分泌
+T649	Test 833 840	胰岛素分泌功能
+T650	Test 859 865	胰岛素分泌率
+T651	Drug 916 922	达美康缓释片
+T652	Test 929 935;936 937	胰岛素的敏感 性
+T653	Test 996 1003	胰岛素分泌功能
+T654	Test_Value 1333 1335	正常
+T655	Test_Value 1593 1597	显著提高
+T656	Disease 1761 1763	炎症
+T657	Anatomy 1909 1914	胰岛素受体
+T658	Anatomy 1923 1925;1926 1929	胰岛 素受体
+T659	Anatomy 1930 1937	胰岛素受体底物
+T660	Anatomy 1938 1947	磷酸肌醇 3 激酶
+T661	Anatomy 1949 1953;1954 1955	蛋白激酶 B
+T662	Anatomy 1956 1960	PI3K
+T663	Test_Value 1999 2001	降低
+T664	Symptom 2217 2219	高糖
+T665	Anatomy 2290 2296	凋亡调节蛋白
+T666	Test_Value 2298 2300	上调
+T667	Test 2330 2332;2333 2334	生存 素
+T668	Test_Value 2328 2330	上调
+T669	Test_Value 2335 2337	下调
+T670	Anatomy 2373 2376	醛固酮
+T671	Anatomy 2442 2445	醛固酮
+T672	Test 2449 2457	胰岛素合成和分泌
+T673	Test_Value 2457 2459	降低
+T674	Anatomy 2476 2479	醛固酮
+T675	Anatomy 2490 2492	胰岛
+T676	Test 2644 2647	生存素
+T677	Anatomy 2672 2675	生存素
+T678	Anatomy 2682 2687;2688 2693	STAT5 – PIM
+T679	Anatomy 2695 2704	细胞外信号调节激酶
+T680	Anatomy 2705 2708	ERK
+T681	Anatomy 2720 2723	催乳素
+T682	Test 2801 2804	胰岛素
+T683	Drug 2822 2825	胰岛素
+T684	Test_Value 2831 2836	降低至正常
+T685	Test_Value 2968 2969;2970 2971	上 调
+T686	Test_Value 3037 3039	升高
+T687	Test_Value 3054 3058	明显下降
+T688	Test_Value 3083 3087	急剧下降
+T689	Disease 3124 3126	炎症
+T690	Test 3257 3261	凋亡程度
+T691	Test 3318 3321	胰岛素
+T692	Anatomy 3369 3371	胚胎
+T693	Test_Value 3451 3455	明显下降
+T694	Test 3543 3548	胰岛素分泌
+T695	Test 3568 3569;3570 3574	胰 岛素分泌
+T696	Test_Value 3574 3578	显著下降
+T697	Anatomy 3594 3598;3599 3604	α、δ、 pp 细胞
+T698	Test_Value 3884 3886	减少
+T699	Duration 4015 4017	短期
+T700	Test_Value 4198 4200	降低
+T701	Disease 4287 4290	1 型
+T702	Test_Value 4363 4365	下降
+T703	Test 4638 4642	检测抗体
+T704	Test_Value 4643 4645	阳性
+T705	Test_Value 4681 4685	没有下降
+T706	Test 4992 4996;4997 5001	细胞内环 磷酸腺苷
+T707	Test 5003 5007	cAMP
+T708	Test_Value 4990 4992	增加
+T709	Anatomy 5034 5042	G 蛋白耦联受体
+T710	Anatomy 5043 5047	GPCR
+T711	Anatomy 5059 5063	GPCR
+T712	Anatomy 5112 5119	GPCR 家族
+T713	Test 5339 5347	细胞内 cAMP
+T714	Test 5356 5360	cAMP
+T715	Test 5428 5432	cAMP
+T716	Test_Value 5436 5440	明显降低
+T717	Anatomy 5463 5466	脑组织
+T718	Anatomy 5495 5497	胰腺
+T719	Anatomy 5525 5527	胰岛
+T720	Anatomy 5554 5556	肾素
+T721	Anatomy 5565 5573	V-ATPase
+T722	Anatomy 5582 5590	V-ATPase
+T723	Test 5639 5645	胰岛素的分泌
+T724	Anatomy 5601 5604	质子泵
+T725	Test 5705 5709	cAMP
+T726	Test_Value 5712 5714	降低
+T727	Test_Value 5732 5734	降低
+T728	Test 5746 5751	胰岛素分泌
+T729	Test 5764 5767	胰岛素
+T730	Anatomy 5834 5837	胰岛素
+T943	Anatomy 3756 3760	Kir6
+T944	Anatomy 3777 3781	KATP
+T945	Anatomy 3782 3785	GOF
+T946	Anatomy 3806 3809	GOF
+T947	Anatomy 3801 3805	KATP
+T948	Anatomy 3848 3852	KATP
+T949	Anatomy 3853 3856	GOF
+T962	Test 2086 2090	TLR4
+T964	Test 2106 2109	JNK
+T965	Test 337 340	FPG
+T966	Test 469 472	FPG
+T967	Test 501 504	FPG
+T968	Test 536 539	FPG
+T969	Test 569 572	FPG
+T974	Test 953 960	血糖曲线下面积
+T980	Anatomy 1021 1028	胰岛 β 细胞
+T981	Anatomy 1048 1055	胰岛 β 细胞
+T982	Anatomy 1716 1723	胰岛 β 细胞
+T983	Anatomy 2783 2787	β 细胞
+T984	Anatomy 2807 2811	β 细胞
+T985	Anatomy 2845 2849	β 细胞
+T996	Anatomy 2275 2279	mTOR
+T997	Anatomy 2268 2272	Rheb
+T998	Anatomy 5516 5523	ATP6AP2
+T999	Test 5468 5477	GLP-1R 受体
+T1000	Anatomy 3559 3564	FoxO1
+T1001	Anatomy 4904 4914	GLP-1 受体途径
+T1013	Anatomy 2972 2976	Pdx1
+T1014	Test 3430 3434	Pdx1
+T1015	Anatomy 2979 2983	MafA
+T1016	Anatomy 5509 5513	ZIP7
+T1025	Treatment 1809 1814	干细胞治疗
+T1075	Reason 87 92	胰岛素抵抗
+T1076	Test 238 240;241 247	胰岛 β 细胞功能
+T1077	Test 264 268;269 273	胰岛 β 细胞功能
+T1078	Test_Value 325 337	100 mg / dl≤
+T1079	Test_Value 340 352	<200 mg / dl
+T1080	Test_Value 457 469	100 mg / dl≤
+T1081	Test_Value 472 484	<125 mg / dl
+T1082	Test_Value 489 492;493 501	125 mg / dl≤
+T1083	Test_Value 505 518	< 150 mg / dl
+T1084	Test_Value 524 536	150 mg / dl≤
+T1085	Test_Value 540 545;546 553	< 175 mg / dl
+T1086	Test_Value 557 569	175 mg / dl≤
+T1087	Test_Value 572 584	<200 mg / dl
+T1088	Test 820 821;822 829	β 细胞糖敏感指数
+T1089	Test 948 951	胰岛素
+T1090	Test 973 980	胰岛素 AUC
+T1091	Test 1276 1289	餐后 2 h 血糖正常高值
+T1092	Test 1353 1359	β 细胞功能
+T1093	Anatomy 1413 1415;1416 1417	外周 血
+T1094	Anatomy 1418 1426	B 淋巴细胞亚群
+T1095	Test 1547 1553	β 细胞功能
+T1096	Test 1606 1612	β 细胞功能
+T1097	Duration 1632 1634	短期
+T1098	Drug 1634 1637	胰岛素
+T1099	Treatment 1639 1643	CSII
+T1100	Test 1664 1670	β 细胞功能
+T1101	Test 2001 2010	胰岛 β 细胞功能
+T1102	Anatomy 2170 2174	FetA
+T1103	Anatomy 2241 2246	DDIT4
+T1104	Anatomy 2249 2253	TSC1
+T1105	Anatomy 2256 2260	TSC2
+T1106	Anatomy 2282 2288	P70S6K
+T1107	Anatomy 2307 2311	β 细胞
+T1108	Anatomy 2320 2325	NR4A1
+T1109	Anatomy 2314 2319	孤儿核受体
+T1110	Anatomy 2337 2341	同源蛋白
+T1111	Anatomy 2342 2346	CHOP
+T1112	Anatomy 2393 2412	JNK / p38 MAPK 信号通路
+T1113	Test 2416 2421;2422 2423	β 细胞功 能
+T1114	Anatomy 2517 2525	INS-1 细胞
+T1115	Anatomy 2526 2531	Ets-1
+T1116	Anatomy 2572 2577	Ets-1
+T1117	Anatomy 2582 2589	胰腺 β 细胞
+T1118	Anatomy 2616 2621	Ets-1
+T1119	Test 2859 2863	胰岛功能
+T1120	Test 2918 2924	β 细胞功能
+T1121	Test 2948 2954	β 细胞功能
+T1122	Test 2989 2995	β 细胞功能
+T1123	Test 3047 3051;3052 3054	β 细胞 功能
+T1124	Test 3078 3080;3081 3083	胰岛 功能
+T1125	Test 3098 3105	胰岛素抵抗程度
+T1126	Reason 3177 3185	β 细胞功能衰竭
+T1127	Reason 3219 3227	β 细胞功能衰竭
+T1128	Reason 3211 3217	β 细胞凋亡
+T1129	Test 3243 3249	β 细胞功能
+T1130	Test 3262 3268	β 细胞功能
+T1131	Test 3275 3284	功能性 β 细胞团
+T1132	Test 3382 3388	β 细胞功能
+T1133	Test 3477 3483	β 细胞功能
+T1134	Anatomy 3650 3654	β 细胞
+T1135	Anatomy 3672 3676	β 细胞
+T1136	Anatomy 3875 3879	β 细胞
+T1137	Test 3887 3893	胰岛分泌功能
+T1138	Anatomy 3918 3926;3927 3928	去分化的 β 细 胞
+T1139	Reason 3974 3981	β 细胞去分化
+T1140	Reason 3982 3993	胰岛 β 细胞功能衰竭
+T1141	Test 4025 4031	β 细胞功能
+T1142	Test 4060 4066	β 细胞功能
+T1143	Disease 4123 4127	胰岛衰竭
+T1144	Reason 4163 4172	胰岛 β 细胞衰竭
+T1145	Test 4216 4222	胰岛功能评估
+T1146	Test 4231 4233;4234 4240	胰岛 功能临床评估
+T1147	Test 4246 4250	胰岛功能
+T1148	Test 4267 4273	胰岛细胞功能
+T1149	Test 4307 4311	胰岛功能
+T1150	Disease 4328 4334	胰岛功能受损
+T1151	Test 4359 4363	胰岛功能
+T1152	Disease 4575 4578	高血压
+T1153	Test 4677 4681	胰岛功能
+T1154	Test 4767 4771	胰岛功能
+T1155	Test 4792 4798	胰岛功能评估
+T1156	Test 4831 4832;4833 4840	胰 岛功能临床评估
+T1157	Anatomy 4878 4880	胰岛
+T1158	Test 4916 4922	胰岛细胞功能
+T1159	Test 5670 5673	胰岛素
+R1	Test_Disease Arg1:T1156 Arg2:T432
+R2	Test_Disease Arg1:T1155 Arg2:T432
+R3	Test_Disease Arg1:T1154 Arg2:T431
+R4	Drug_Disease Arg1:T427 Arg2:T44
+R5	Test_Disease Arg1:T283 Arg2:T44
+R6	Drug_Disease Arg1:T426 Arg2:T44
+R7	Test_Disease Arg1:T1153 Arg2:T44
+R8	Test_Disease Arg1:T703 Arg2:T44
+R9	Test_Disease Arg1:T282 Arg2:T419
+R10	Test_Disease Arg1:T1151 Arg2:T419
+R11	Test_Disease Arg1:T281 Arg2:T1150
+R12	Test_Disease Arg1:T1149 Arg2:T417
+R13	Test_Disease Arg1:T1148 Arg2:T416
+R14	Test_Disease Arg1:T1147 Arg2:T416
+R15	Test_Disease Arg1:T1146 Arg2:T416
+R16	Test_Disease Arg1:T1145 Arg2:T416
+R17	Test_Disease Arg1:T280 Arg2:T416
+R18	Duration_Drug Arg1:T699 Arg2:T410
+R19	Test_Disease Arg1:T272 Arg2:T31
+R20	Test_Disease Arg1:T639 Arg2:T31
+R21	Test_Disease Arg1:T640 Arg2:T31
+R22	Test_Disease Arg1:T1076 Arg2:T32
+R23	Test_Disease Arg1:T1077 Arg2:T33
+R24	Test_Disease Arg1:T62 Arg2:T34
+R25	Test_Disease Arg1:T965 Arg2:T34
+R26	Test_Disease Arg1:T75 Arg2:T34
+R27	Test_Disease Arg1:T183 Arg2:T34
+R28	Test_Disease Arg1:T67 Arg2:T348
+R29	Test_Disease Arg1:T642 Arg2:T348
+R30	Test_Disease Arg1:T68 Arg2:T348
+R31	Test_Disease Arg1:T644 Arg2:T348
+R32	Test_Disease Arg1:T69 Arg2:T348
+R33	Test_Disease Arg1:T645 Arg2:T348
+R34	Test_Disease Arg1:T646 Arg2:T348
+R35	Test_Disease Arg1:T221 Arg2:T348
+R36	Test_Disease Arg1:T351 Arg2:T348
+R37	Test_Disease Arg1:T70 Arg2:T348
+R38	Test_Disease Arg1:T192 Arg2:T35
+R39	Test_Disease Arg1:T192 Arg2:T356
+R40	Test_Disease Arg1:T1091 Arg2:T357
+R41	Test_Disease Arg1:T1091 Arg2:T358
+R42	Test_Disease Arg1:T76 Arg2:T359
+R43	Test_Disease Arg1:T76 Arg2:T360
+R44	Test_Disease Arg1:T76 Arg2:T289
+R45	Test_Disease Arg1:T1092 Arg2:T361
+R46	Anatomy_Disease Arg1:T1093 Arg2:T6
+R47	Anatomy_Disease Arg1:T1093 Arg2:T161
+R48	Anatomy_Disease Arg1:T1093 Arg2:T362
+R49	Anatomy_Disease Arg1:T1094 Arg2:T161
+R50	Anatomy_Disease Arg1:T1094 Arg2:T362
+R51	Anatomy_Disease Arg1:T1094 Arg2:T6
+R52	Anatomy_Disease Arg1:T363 Arg2:T161
+R53	Anatomy_Disease Arg1:T363 Arg2:T362
+R54	Anatomy_Disease Arg1:T363 Arg2:T6
+R55	Anatomy_Disease Arg1:T117 Arg2:T161
+R56	Anatomy_Disease Arg1:T117 Arg2:T362
+R57	Anatomy_Disease Arg1:T117 Arg2:T6
+R58	Anatomy_Disease Arg1:T364 Arg2:T7
+R59	Anatomy_Disease Arg1:T364 Arg2:T162
+R60	Treatment_Disease Arg1:T365 Arg2:T7
+R61	Treatment_Disease Arg1:T365 Arg2:T162
+R62	Test_Disease Arg1:T1096 Arg2:T36
+R63	Drug_Disease Arg1:T369 Arg2:T36
+R64	Drug_Disease Arg1:T368 Arg2:T36
+R65	Test_Disease Arg1:T1095 Arg2:T36
+R66	Drug_Disease Arg1:T367 Arg2:T36
+R67	Drug_Disease Arg1:T366 Arg2:T36
+R68	Drug_Disease Arg1:T196 Arg2:T36
+R69	Duration_Drug Arg1:T1097 Arg2:T1098
+R70	Drug_Disease Arg1:T166 Arg2:T37
+R71	Drug_Disease Arg1:T1098 Arg2:T37
+R72	Test_Disease Arg1:T1100 Arg2:T37
+R73	Anatomy_Disease Arg1:T119 Arg2:T656
+R74	Anatomy_Disease Arg1:T118 Arg2:T656
+R75	Anatomy_Disease Arg1:T169 Arg2:T370
+R76	Treatment_Disease Arg1:T1025 Arg2:T370
+R77	Test_Disease Arg1:T275 Arg2:T375
+R78	Test_Disease Arg1:T1101 Arg2:T38
+R79	Anatomy_Disease Arg1:T374 Arg2:T375
+R80	Anatomy_Disease Arg1:T264 Arg2:T375
+R81	Anatomy_Disease Arg1:T662 Arg2:T375
+R82	Anatomy_Disease Arg1:T661 Arg2:T375
+R83	Anatomy_Disease Arg1:T660 Arg2:T375
+R84	Anatomy_Disease Arg1:T659 Arg2:T375
+R85	Anatomy_Disease Arg1:T658 Arg2:T375
+R86	Anatomy_Disease Arg1:T657 Arg2:T375
+R87	Anatomy_Disease Arg1:T373 Arg2:T375
+R88	Anatomy_Disease Arg1:T372 Arg2:T375
+R89	Anatomy_Disease Arg1:T120 Arg2:T375
+R90	Anatomy_Disease Arg1:T121 Arg2:T38
+R91	Anatomy_Disease Arg1:T376 Arg2:T38
+R92	Anatomy_Disease Arg1:T377 Arg2:T38
+R93	Test_Disease Arg1:T962 Arg2:T38
+R94	Test_Disease Arg1:T964 Arg2:T38
+R95	Anatomy_Disease Arg1:T122 Arg2:T38
+R96	Drug_Disease Arg1:T167 Arg2:T38
+R97	Anatomy_Disease Arg1:T378 Arg2:T38
+R98	Anatomy_Disease Arg1:T123 Arg2:T38
+R99	Anatomy_Disease Arg1:T1102 Arg2:T38
+R100	Test_Disease Arg1:T263 Arg2:T38
+R101	Test_Disease Arg1:T676 Arg2:T74
+R102	Anatomy_Disease Arg1:T126 Arg2:T74
+R103	Anatomy_Disease Arg1:T677 Arg2:T74
+R104	Anatomy_Disease Arg1:T265 Arg2:T74
+R105	Anatomy_Disease Arg1:T678 Arg2:T74
+R106	Anatomy_Disease Arg1:T679 Arg2:T74
+R107	Anatomy_Disease Arg1:T680 Arg2:T74
+R108	Anatomy_Disease Arg1:T681 Arg2:T74
+R109	Anatomy_Disease Arg1:T127 Arg2:T74
+R110	Amount_Drug Arg1:T386 Arg2:T385
+R111	Drug_Disease Arg1:T385 Arg2:T387
+R112	Anatomy_Disease Arg1:T128 Arg2:T387
+R113	Anatomy_Disease Arg1:T983 Arg2:T387
+R114	Test_Disease Arg1:T1119 Arg2:T390
+R115	Anatomy_Disease Arg1:T985 Arg2:T390
+R116	Symptom_Disease Arg1:T388 Arg2:T390
+R117	Test_Disease Arg1:T276 Arg2:T390
+R118	Test_Disease Arg1:T682 Arg2:T390
+R119	Anatomy_Disease Arg1:T984 Arg2:T390
+R120	Drug_Disease Arg1:T683 Arg2:T390
+R121	Anatomy_Disease Arg1:T257 Arg2:T390
+R122	Anatomy_Disease Arg1:T260 Arg2:T390
+R123	Test_Disease Arg1:T1120 Arg2:T390
+R124	Anatomy_Disease Arg1:T258 Arg2:T390
+R125	Anatomy_Disease Arg1:T261 Arg2:T390
+R126	Test_Disease Arg1:T1121 Arg2:T390
+R127	Anatomy_Disease Arg1:T1013 Arg2:T390
+R128	Anatomy_Disease Arg1:T1015 Arg2:T390
+R129	Test_Disease Arg1:T1122 Arg2:T390
+R130	Anatomy_Disease Arg1:T129 Arg2:T390
+R131	Anatomy_Disease Arg1:T130 Arg2:T689
+R132	Anatomy_Disease Arg1:T395 Arg2:T396
+R133	Anatomy_Disease Arg1:T131 Arg2:T396
+R134	Drug_Disease Arg1:T397 Arg2:T39
+R135	Test_Disease Arg1:T1014 Arg2:T40
+R136	Anatomy_Disease Arg1:T136 Arg2:T40
+R137	Anatomy_Disease Arg1:T222 Arg2:T40
+R138	Test_Disease Arg1:T1133 Arg2:T40
+R139	Anatomy_Disease Arg1:T223 Arg2:T40
+R140	Anatomy_Disease Arg1:T224 Arg2:T40
+R141	Anatomy_Disease Arg1:T1000 Arg2:T40
+R142	Test_Disease Arg1:T695 Arg2:T40
+R143	Test_Disease Arg1:T694 Arg2:T40
+R144	Anatomy_Disease Arg1:T137 Arg2:T40
+R145	Anatomy_Disease Arg1:T697 Arg2:T40
+R146	Test_Disease Arg1:T277 Arg2:T400
+R147	Anatomy_Disease Arg1:T402 Arg2:T400
+R148	Anatomy_Disease Arg1:T1134 Arg2:T400
+R149	Anatomy_Disease Arg1:T1135 Arg2:T403
+R150	Anatomy_Disease Arg1:T138 Arg2:T41
+R151	Drug_Disease Arg1:T404 Arg2:T41
+R152	Anatomy_Disease Arg1:T139 Arg2:T41
+R153	Anatomy_Disease Arg1:T414 Arg2:T1143
+R154	Anatomy_Disease Arg1:T414 Arg2:T413
+R155	Treatment_Disease Arg1:T1099 Arg2:T37
+R156	Test_Disease Arg1:T983 Arg2:T387
+R157	Test_Disease Arg1:T1015 Arg2:T390
+R158	Test_Disease Arg1:T1013 Arg2:T390
+R159	Test_Disease Arg1:T1134 Arg2:T403
+R160	Test_Disease Arg1:T1135 Arg2:T403
+R161	Test_Disease Arg1:T280 Arg2:T415
+R162	Test_Disease Arg1:T1145 Arg2:T415
+R163	Test_Disease Arg1:T1146 Arg2:T415
+R164	Test_Disease Arg1:T1148 Arg2:T701
+R165	Test_Disease Arg1:T1148 Arg2:T42
+R166	Test_Disease Arg1:T703 Arg2:T43

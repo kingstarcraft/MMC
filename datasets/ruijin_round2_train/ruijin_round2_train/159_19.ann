@@ -1,0 +1,470 @@
+T1	Disease 228 234	2 型糖尿病
+T2	Disease 1641 1647	2 型糖尿病
+T3	Disease 3099 3105	2 型糖尿病
+T4	Anatomy 4164 4168	脂肪细胞
+T5	Anatomy 4260 4264	脂肪细胞
+T6	Anatomy 4309 4313	脂肪细胞
+T7	Anatomy 4386 4390	脂肪细胞
+T8	Anatomy 4451 4455	脂肪细胞
+T9	Anatomy 4465 4469	脂肪细胞
+T10	Anatomy 4571 4575	脂肪细胞
+T11	Anatomy 4622 4623;4624 4627	脂 肪细胞
+T12	Anatomy 4725 4729	脂肪细胞
+T13	Anatomy 4745 4749	脂肪细胞
+T14	Anatomy 4810 4814	脂肪细胞
+T15	Drug 5772 5776	利拉鲁肽
+T16	Test 2314 2318	餐后血糖
+T17	Disease 1698 1701	脑卒中
+T18	Test 3538 3541	骨钙素
+T19	Test 3621 3624	骨钙素
+T20	Test 3975 3978	骨钙素
+T21	Test 5125 5128	骨钙素
+T22	Test 1623 1625	体重
+T23	Test 3042 3047	RANKL
+T24	Test 3139 3144	RANKL
+T25	Test 6499 6504	RANKL
+T26	Anatomy 3452 3456	成骨细胞
+T27	Anatomy 3587 3588;3589 3592	成 骨细胞
+T28	Anatomy 3645 3649	成骨细胞
+T29	Anatomy 3745 3749	成骨细胞
+T30	Anatomy 3856 3860	成骨细胞
+T31	Anatomy 4445 4449	成骨细胞
+T32	Anatomy 4476 4480	成骨细胞
+T33	Anatomy 4537 4541	成骨细胞
+T34	Anatomy 4823 4827	成骨细胞
+T35	Anatomy 5211 5215	成骨细胞
+T36	Anatomy 6563 6567	成骨细胞
+T37	Anatomy 6663 6667	成骨细胞
+T38	Anatomy 2717 2721	破骨细胞
+T39	Anatomy 2939 2943	破骨细胞
+T40	Anatomy 3750 3754	破骨细胞
+T41	Drug 3513 3517	艾塞那肽
+T42	Drug 3928 3932	艾塞那肽
+T43	Drug 4047 4051	艾塞那肽
+T44	Drug 4074 4078	艾塞那肽
+T45	Test 2949 2952	护骨素
+T46	Drug 5600 5609	GLP-1 类似物
+T47	Drug 5763 5772	GLP-1 类似物
+T48	Drug 6815 6824	GLP-1 类似物
+T49	Anatomy 195 203	胰升糖素样肽 1
+T50	Anatomy 328 336	胰升糖素样肽 1
+T51	Anatomy 2393 2399	GLP-1R
+T52	Anatomy 2603 2609	GLP-1R
+T53	Anatomy 2764 2770	GLP-1R
+T54	Anatomy 2816 2820;2821 2823	GLP- 1R
+T55	Anatomy 3403 3409	GLP-1R
+T56	Anatomy 3895 3901	GLP-1R
+T57	Anatomy 4589 4595	GLP-1R
+T58	Anatomy 5135 5139;5140 5142	GLP- 1R
+T59	Anatomy 5181 5187	GLP-1R
+T60	Anatomy 5275 5281	GLP-1R
+T61	Anatomy 5331 5337	GLP-1R
+T62	Anatomy 5357 5363	GLP-1R
+T63	Anatomy 5495 5501	GLP-1R
+T64	Anatomy 6177 6183	GLP-1R
+T65	Anatomy 6624 6630	GLP-1R
+T66	Disease 3994 3999;4000 4001	2 型糖尿 病
+T67	Anatomy 98 103	GLP-1
+T69	Drug 245 250	GLP-1
+T70	Anatomy 862 867	GLP-1
+T71	Anatomy 996 1001	GLP-1
+T72	Anatomy 1587 1591;1592 1593	GLP- 1
+T73	Anatomy 1667 1672	GLP-1
+T74	Anatomy 1721 1726	GLP-1
+T75	Anatomy 1773 1778	GLP-1
+T76	Anatomy 1785 1790	GLP-1
+T77	Anatomy 1837 1842	GLP-1
+T78	Anatomy 1857 1862	GLP-1
+T79	Anatomy 1899 1904	GLP-1
+T80	Anatomy 1912 1917	GLP-1
+T81	Anatomy 1944 1949	GLP-1
+T82	Anatomy 1960 1965	GLP-1
+T83	Anatomy 2012 2017	GLP-1
+T84	Anatomy 2069 2074	GLP-1
+T85	Anatomy 2097 2102	GLP-1
+T86	Anatomy 2128 2133	GLP-1
+T87	Anatomy 2173 2178	GLP-1
+T88	Anatomy 2188 2193	GLP-1
+T89	Anatomy 2220 2225	GLP-1
+T90	Anatomy 2262 2267	GLP-1
+T91	Anatomy 2298 2303	GLP-1
+T92	Anatomy 2326 2331	GLP-1
+T93	Anatomy 2354 2359	GLP-1
+T94	Anatomy 2384 2389	GLP-1
+T95	Anatomy 2404 2409	GLP-1
+T96	Anatomy 2416 2421	GLP-1
+T97	Anatomy 2438 2443	GLP-1
+T98	Anatomy 2544 2549	GLP-1
+T99	Anatomy 2565 2570	GLP-1
+T100	Anatomy 2657 2662	GLP-1
+T101	Anatomy 2774 2779	GLP-1
+T102	Anatomy 2881 2886	GLP-1
+T103	Anatomy 3113 3118	GLP-1
+T104	Anatomy 3286 3291	GLP-1
+T105	Anatomy 3325 3330	GLP-1
+T106	Anatomy 3357 3362	GLP-1
+T107	Anatomy 3433 3438	GLP-1
+T108	Anatomy 3444 3449	GLP-1
+T109	Anatomy 3502 3507	GLP-1
+T110	Anatomy 4032 4037	GLP-1
+T111	Anatomy 4599 4604	GLP-1
+T112	Anatomy 4756 4761	GLP-1
+T113	Anatomy 4842 4847	GLP-1
+T114	Anatomy 4864 4869	GLP-1
+T115	Anatomy 5020 5025	GLP-1
+T116	Anatomy 5192 5197	GLP-1
+T117	Anatomy 5374 5379	GLP-1
+T118	Anatomy 5407 5412	GLP-1
+T119	Anatomy 5439 5444	GLP-1
+T120	Anatomy 5861 5866	GLP-1
+T121	Anatomy 5902 5907	GLP-1
+T122	Drug 6023 6028	GLP-1
+T123	Anatomy 6249 6254	GLP-1
+T124	Anatomy 6275 6280	GLP-1
+T125	Anatomy 6699 6704	GLP-1
+T126	Anatomy 6734 6739	GLP-1
+T127	Anatomy 6906 6911	GLP-1
+T128	Drug 6970 6975	GLP-1
+T129	Anatomy 4415 4420	BMSCs
+T130	Anatomy 4437 4442	BMSCs
+T131	Anatomy 4491 4496	BMSCs
+T132	Anatomy 4564 4569	BMSCs
+T133	Anatomy 2047 2051	IL-6
+T134	Anatomy 6207 6211	IL-6
+T135	Anatomy 5986 5990	肝脏组织
+T136	Disease 142 146	骨质疏松
+T137	Disease 297 301	骨质疏松
+T138	Disease 4129 4133	骨质疏松
+T139	Disease 4508 4512	骨质疏松
+T140	Test 4799 4802	LPL
+T141	Test 2635 2638	骨密度
+T142	Test 4004 4007	骨密度
+T143	Test 6448 6451	骨密度
+T144	Test 5149 5152	PCR
+T145	Test 1617 1619	血糖
+T146	Test 1674 1676	血糖
+T147	Test 3918 3920	血糖
+T148	Test 3924 3926	血糖
+T149	Test 3559 3563	PINP
+T150	Test 2915 2918	CTX
+T151	Test 3343 3346	CTX
+T152	Anatomy 105 107	骨骼
+T153	Anatomy 108 114	中枢神经系统
+T154	Disease 148 151	糖尿病
+T155	Disease 168 171	糖尿病
+T156	Disease 175 177	骨折
+T157	Anatomy 265 266	骨
+T158	Anatomy 271 272	骨
+T159	Anatomy 275 277	神经
+T160	Anatomy 281 283	神经
+T161	Disease 1438 1441	糖尿病
+T162	Anatomy 1428 1432	肠促胰素
+T163	Anatomy 1456 1460	肠道细胞
+T164	Disease 1595 1598	糖尿病
+T165	Anatomy 1578 1583	GLP-2
+T166	Anatomy 1629 1630	骨
+T167	Anatomy 1649 1650	骨
+T168	Anatomy 1728 1730	骨骼
+T169	Anatomy 1731 1737	中枢神经系统
+T170	Anatomy 1745 1746	骨
+T171	Anatomy 1805 1812	肠道 L 细胞
+T172	Anatomy 2007 2009	肠道
+T173	Anatomy 2059 2066	肠道 L 细胞
+T174	Anatomy 2141 2148	肠壁刷状缘细胞
+T175	Anatomy 2232 2234	肝脏
+T176	Anatomy 2228 2230	静脉
+T177	Anatomy 2368 2371	心血管
+T178	Anatomy 2551 2552	骨
+T179	Anatomy 2572 2573	骨
+T180	Anatomy 2576 2577	骨
+T181	Anatomy 2582 2583	骨
+T182	Anatomy 2587 2588	骨
+T183	Anatomy 2617 2620	皮质骨
+T186	Anatomy 2677 2678	骨
+T187	Anatomy 2684 2686;2687 2688	骨组 织
+T188	Anatomy 2704 2705	骨
+T189	Anatomy 2734 2735	骨
+T190	Anatomy 2753 2761	甲状腺 C 细胞
+T191	Anatomy 2795 2797	胰腺
+T192	Symptom 2831 2838	降钙素分泌减少
+T193	Symptom 2839 2844	骨吸收增加
+T194	Anatomy 2849 2850	骨
+T195	Anatomy 2874 2876	卵巢
+T196	Test 2927 2930	DPD
+T197	Disease 3092 3097	胰岛素抵抗
+T198	Anatomy 3122 3128	OPG 基因
+T199	Test 3133 3136	OPG
+T200	Anatomy 3071 3075	破骨基因
+T201	Anatomy 3156 3161	骨小梁间隔
+T202	Anatomy 3195 3198	骨小梁
+T203	Anatomy 3295 3297	小梁
+T204	Test_Value 3349 3352	不降低
+T205	Anatomy 3440 3441	骨
+T206	Anatomy 3464 3465	骨
+T207	Anatomy 3494 3495;3496 3497	卵 巢
+T208	Test 3533 3536	ALP
+T209	Anatomy 3572 3575	骨组织
+T210	Anatomy 3581 3584	骨小梁
+T211	Anatomy 3605 3610	Runx2
+T212	Anatomy 3611 3614	ALP
+T213	Anatomy 3615 3619	Col1
+T214	Anatomy 3638 3643	Runx2
+T215	Anatomy 3672 3675	ALP
+T216	Anatomy 3678 3682	Col1
+T217	Anatomy 3704 3706	骨骼
+T218	Anatomy 3708 3711	骨细胞
+T219	Anatomy 3727 3731	骨骼细胞
+T220	Anatomy 3777 3780	骨细胞
+T221	Anatomy 3782 3783	骨
+T222	Anatomy 3811 3818	SOST 基因
+T223	Anatomy 3828 3829	骨
+T224	Anatomy 3869 3871;3872 3873	骨细 胞
+T225	Anatomy 3906 3915	MLO-Y4 细胞
+T226	Test 3962 3967	骨硬化蛋白
+T227	Test_Value 3980 3982	升高
+T228	Test_Value 3970 3972	下降
+T229	Anatomy 3985 3986	骨
+T230	Drug 4023 4030	PKA 抑制剂
+T231	Anatomy 4053 4060	SOST 基因
+T232	Anatomy 4069 4071;4072 4073	骨细 胞
+T233	Anatomy 4081 4088	SOST 基因
+T234	Disease 4144 4150	皮质醇增多症
+T235	Test 4156 4158	骨量
+T236	Test_Value 4155 4156	低
+T237	Anatomy 4162 4164	骨髓
+T238	Disease 4276 4285	自发非肥胖性糖尿病
+T239	Drug 4286 4290	链唑霉素
+T240	Disease 4292 4295	糖尿病
+T241	Anatomy 4300 4303	骨小梁
+T242	Anatomy 4325 4326;4327 4328	胫 骨
+T243	Anatomy 4329 4331	颅骨
+T244	Anatomy 4359 4363	AP-2
+T245	Disease 4377 4380	糖尿病
+T246	Anatomy 4383 4385	骨髓
+T247	Reason 4497 4507	成骨及成脂分化的失调
+T248	Disease 4532 4535	糖尿病
+T249	Anatomy 4549 4553	PPAR
+T250	Anatomy 4579 4583;4584 4586	间充质干 细胞
+T251	Anatomy 4608 4614	hBMSCs
+T252	Anatomy 4694 4702	C / EBPβ
+T253	Anatomy 4782 4787	PPARγ
+T254	Anatomy 4788 4796	C / EBPβ
+T255	Anatomy 4850 4851	骨
+T256	Anatomy 4860 4862	胰腺
+T257	Anatomy 4936 4937;4938 4940	骨 骼肌
+T258	Anatomy 4941 4943	肝脏
+T259	Anatomy 5159 5170	MC3T3-E1 细胞
+T260	Anatomy 5177 5179	胰腺
+T261	Anatomy 5262 5273	MC3T3-E1 细胞
+T262	Anatomy 5313 5316	干细胞
+T263	Anatomy 5397 5398	骨
+T264	Anatomy 5429 5436	肠道 L 细胞
+T265	Anatomy 5447 5449	脑干
+T266	Anatomy 5451 5454	孤束核
+T268	Anatomy 5507 5510	脑组织
+T269	Anatomy 5617 5619	神经
+T270	Disease 5707 5713	阿尔茨海默病
+T271	Drug 5741 5743	神经
+T272	Anatomy 5747 5749	血管
+T273	Disease 5793 5796	脑梗死
+T274	Anatomy 5884 5886	神经
+T275	Anatomy 5914 5918	毛细血管
+T276	Anatomy 5932 5937	结状神经元
+T277	Anatomy 5958 5961	孤束核
+T278	Anatomy 5971 5974	下丘脑
+T279	Anatomy 5980 5981;5982 5985	肝 门静脉
+T280	Anatomy 6015 6019	肝门静脉
+T281	Method 6020 6022	注射
+T282	Anatomy 6077 6079	胰腺
+T283	Anatomy 6080 6081	胃
+T284	Anatomy 6128 6131	下丘脑
+T285	Anatomy 6112 6115	臂旁核
+T286	Anatomy 6141 6144	臂旁核
+T287	Anatomy 6172 6175	臂旁核
+T288	Anatomy 6200 6204	CGRP
+T289	Disease 6223 6226	厌食症
+T290	Anatomy 6233 6240	肠道 L 细胞
+T291	Anatomy 6242 6246	a 细胞
+T292	Anatomy 6282 6290	骨-中枢神经系统
+T293	Anatomy 6346 6349	下丘脑
+T294	Anatomy 6361 6364	下丘脑
+T295	Anatomy 6370 6376	中枢神经系统
+T296	Anatomy 6412 6416	CGRP
+T297	Anatomy 6423 6427	神经系统
+T298	Anatomy 6436 6438	卵巢
+T299	Test 6456 6458	骨量
+T300	Test_Value 6453 6455	提升
+T301	Test_Value 6458 6460	增加
+T302	Test 6470 6472	骨量
+T303	Test_Value 6472 6474	减少
+T304	Anatomy 6442 6443	骨
+T305	Anatomy 6483 6487	CGRP
+T306	Test 6493 6496	OPG
+T307	Anatomy 6508 6509	骨
+T308	Anatomy 6533 6534	骨
+T309	Anatomy 6606 6611	TNF-α
+T310	Anatomy 6635 6642	CGRP 基因
+T311	Anatomy 6676 6677	骨
+T312	Anatomy 6706 6712	中枢神经系统
+T313	Anatomy 6713 6715	骨骼
+T314	Anatomy 6745 6751	中枢神经系统
+T315	Anatomy 6761 6763	骨骼
+T316	Anatomy 6768 6769	骨
+T317	Anatomy 6866 6867	骨
+T318	Anatomy 6872 6873	骨
+T319	Disease 6881 6884	脑梗死
+T320	Anatomy 6887 6889	神经
+T321	Anatomy 6894 6896	神经
+T322	Anatomy 6913 6915	骨骼
+T323	Disease 6916 6924	中枢神经系统疾病
+T324	Anatomy 6945 6947	肾脏
+T325	Anatomy 6948 6951	心血管
+T326	Anatomy 4344 4347	骨钙素
+T327	Test 3055 3066	OPG / RANKL
+T328	Anatomy 2149 2157	毛细血管内皮细胞
+T329	Anatomy 4732 4735	LPL
+T330	Symptom 4525 4528	高血糖
+T331	Anatomy 5556 5567	抗凋亡蛋白 Bcl-2
+T332	Test 5577 5588	Bax / Bcl-2
+T333	Anatomy 5538 5547	前凋亡蛋白 Bax
+T334	Anatomy 1569 1572	GLP
+T68	Drug 203 213	(GLP-1)类似物
+T184	Test 2639 2642	骨强度
+T185	Test 2646 2649	骨脆性
+T335	Test_Value 2643 2645	降低
+T336	Test_Value 2649 2651	增加
+T337	Test_Value 3279 3281	下降
+T338	Test 3936 3937;3938 3942	骨 硬化蛋白
+T339	Anatomy 4307 4309	骨髓
+T267	Test 5636 5641	β 淀粉体
+R1	Drug_Disease Arg1:T68 Arg2:T1
+R2	Drug_Disease Arg1:T69 Arg2:T137
+R3	Anatomy_Disease Arg1:T157 Arg2:T137
+R4	Anatomy_Disease Arg1:T158 Arg2:T137
+R5	Anatomy_Disease Arg1:T159 Arg2:T137
+R6	Anatomy_Disease Arg1:T160 Arg2:T137
+R7	Anatomy_Disease Arg1:T162 Arg2:T161
+R8	Anatomy_Disease Arg1:T163 Arg2:T161
+R9	Anatomy_Disease Arg1:T334 Arg2:T161
+R10	Anatomy_Disease Arg1:T165 Arg2:T161
+R11	Anatomy_Disease Arg1:T72 Arg2:T164
+R12	Test_Disease Arg1:T145 Arg2:T164
+R13	Test_Disease Arg1:T22 Arg2:T164
+R14	Anatomy_Disease Arg1:T166 Arg2:T164
+R15	Anatomy_Disease Arg1:T167 Arg2:T2
+R16	Anatomy_Disease Arg1:T73 Arg2:T2
+R17	Test_Disease Arg1:T146 Arg2:T2
+R18	Anatomy_Disease Arg1:T72 Arg2:T17
+R19	Anatomy_Disease Arg1:T103 Arg2:T197
+R20	Anatomy_Disease Arg1:T103 Arg2:T3
+R21	Test_Disease Arg1:T327 Arg2:T3
+R22	Anatomy_Disease Arg1:T200 Arg2:T3
+R23	Test_Disease Arg1:T45 Arg2:T3
+R24	Anatomy_Disease Arg1:T39 Arg2:T3
+R25	Test_Disease Arg1:T196 Arg2:T3
+R26	Test_Disease Arg1:T150 Arg2:T3
+R27	Anatomy_Disease Arg1:T198 Arg2:T3
+R28	Test_Disease Arg1:T199 Arg2:T3
+R29	Test_Disease Arg1:T24 Arg2:T3
+R30	Anatomy_Disease Arg1:T201 Arg2:T3
+R31	Anatomy_Disease Arg1:T202 Arg2:T3
+R32	Anatomy_Disease Arg1:T104 Arg2:T3
+R33	Anatomy_Disease Arg1:T203 Arg2:T3
+R34	Anatomy_Disease Arg1:T229 Arg2:T66
+R35	Test_Disease Arg1:T142 Arg2:T66
+R36	Test_Disease Arg1:T20 Arg2:T66
+R37	Test_Disease Arg1:T226 Arg2:T66
+R38	Drug_Disease Arg1:T42 Arg2:T66
+R39	Test_Disease Arg1:T338 Arg2:T66
+R40	Test_Disease Arg1:T147 Arg2:T66
+R41	Anatomy_Disease Arg1:T225 Arg2:T66
+R42	Test_Disease Arg1:T148 Arg2:T66
+R43	Anatomy_Disease Arg1:T56 Arg2:T66
+R44	Test_Disease Arg1:T235 Arg2:T234
+R45	Test_Disease Arg1:T235 Arg2:T138
+R46	Anatomy_Disease Arg1:T237 Arg2:T138
+R47	Anatomy_Disease Arg1:T4 Arg2:T138
+R48	Drug_Disease Arg1:T230 Arg2:T66
+R49	Anatomy_Disease Arg1:T110 Arg2:T66
+R50	Drug_Disease Arg1:T43 Arg2:T66
+R51	Anatomy_Disease Arg1:T231 Arg2:T66
+R52	Anatomy_Disease Arg1:T232 Arg2:T66
+R53	Drug_Disease Arg1:T44 Arg2:T66
+R54	Anatomy_Disease Arg1:T233 Arg2:T66
+R55	Anatomy_Disease Arg1:T5 Arg2:T238
+R56	Drug_Disease Arg1:T239 Arg2:T238
+R57	Anatomy_Disease Arg1:T241 Arg2:T240
+R58	Anatomy_Disease Arg1:T339 Arg2:T240
+R59	Anatomy_Disease Arg1:T6 Arg2:T240
+R60	Anatomy_Disease Arg1:T242 Arg2:T240
+R61	Anatomy_Disease Arg1:T243 Arg2:T240
+R62	Anatomy_Disease Arg1:T326 Arg2:T240
+R63	Anatomy_Disease Arg1:T244 Arg2:T240
+R64	Anatomy_Disease Arg1:T246 Arg2:T245
+R65	Anatomy_Disease Arg1:T7 Arg2:T245
+R66	Anatomy_Disease Arg1:T129 Arg2:T139
+R67	Anatomy_Disease Arg1:T130 Arg2:T139
+R68	Anatomy_Disease Arg1:T31 Arg2:T139
+R69	Anatomy_Disease Arg1:T8 Arg2:T139
+R70	Anatomy_Disease Arg1:T9 Arg2:T139
+R71	Anatomy_Disease Arg1:T32 Arg2:T139
+R72	Anatomy_Disease Arg1:T131 Arg2:T139
+R73	Symptom_Disease Arg1:T330 Arg2:T248
+R74	Anatomy_Disease Arg1:T33 Arg2:T248
+R75	Anatomy_Disease Arg1:T249 Arg2:T248
+R76	Anatomy_Disease Arg1:T132 Arg2:T248
+R77	Anatomy_Disease Arg1:T10 Arg2:T248
+R78	Anatomy_Disease Arg1:T250 Arg2:T248
+R79	Anatomy_Disease Arg1:T57 Arg2:T248
+R80	Anatomy_Disease Arg1:T111 Arg2:T248
+R81	Anatomy_Disease Arg1:T251 Arg2:T248
+R82	Anatomy_Disease Arg1:T11 Arg2:T248
+R83	Drug_Disease Arg1:T46 Arg2:T270
+R84	Anatomy_Disease Arg1:T269 Arg2:T270
+R85	Drug_Disease Arg1:T271 Arg2:T270
+R86	Anatomy_Disease Arg1:T272 Arg2:T270
+R87	Test_Disease Arg1:T267 Arg2:T270
+R88	Anatomy_Disease Arg1:T120 Arg2:T273
+R89	Anatomy_Disease Arg1:T274 Arg2:T273
+R90	Anatomy_Disease Arg1:T121 Arg2:T273
+R91	Anatomy_Disease Arg1:T275 Arg2:T273
+R92	Anatomy_Disease Arg1:T276 Arg2:T273
+R93	Anatomy_Disease Arg1:T277 Arg2:T273
+R94	Anatomy_Disease Arg1:T278 Arg2:T273
+R95	Method_Drug Arg1:T281 Arg2:T122
+R96	Drug_Disease Arg1:T48 Arg2:T319
+R97	Anatomy_Disease Arg1:T320 Arg2:T319
+R98	Anatomy_Disease Arg1:T321 Arg2:T319
+R99	Anatomy_Disease Arg1:T127 Arg2:T323
+R100	Anatomy_Disease Arg1:T68 Arg2:T1
+R101	Anatomy_Disease Arg1:T49 Arg2:T1
+R102	Anatomy_Disease Arg1:T69 Arg2:T137
+R103	Anatomy_Disease Arg1:T334 Arg2:T164
+R104	Anatomy_Disease Arg1:T165 Arg2:T164
+R105	Test_Disease Arg1:T145 Arg2:T2
+R106	Anatomy_Disease Arg1:T166 Arg2:T2
+R107	Test_Disease Arg1:T141 Arg2:T185
+R108	Test_Disease Arg1:T141 Arg2:T184
+R109	Anatomy_Disease Arg1:T52 Arg2:T185
+R110	Anatomy_Disease Arg1:T52 Arg2:T184
+R111	Anatomy_Disease Arg1:T183 Arg2:T185
+R112	Anatomy_Disease Arg1:T183 Arg2:T184
+R113	Anatomy_Disease Arg1:T198 Arg2:T197
+R114	Test_Disease Arg1:T199 Arg2:T197
+R115	Test_Disease Arg1:T24 Arg2:T197
+R116	Anatomy_Disease Arg1:T237 Arg2:T234
+R117	Anatomy_Disease Arg1:T4 Arg2:T234
+R118	Drug_Disease Arg1:T239 Arg2:T240
+R119	Anatomy_Disease Arg1:T241 Arg2:T238
+R120	Anatomy_Disease Arg1:T6 Arg2:T238
+R121	Anatomy_Disease Arg1:T242 Arg2:T238
+R122	Anatomy_Disease Arg1:T243 Arg2:T238
+R123	Anatomy_Disease Arg1:T326 Arg2:T238
+R124	Anatomy_Disease Arg1:T244 Arg2:T238
+R125	Anatomy_Disease Arg1:T264 Arg2:T267
+R126	Anatomy_Disease Arg1:T119 Arg2:T267
+R127	Anatomy_Disease Arg1:T265 Arg2:T267
+R128	Anatomy_Disease Arg1:T266 Arg2:T267
+R129	Drug_Disease Arg1:T47 Arg2:T273
+R130	Drug_Disease Arg1:T15 Arg2:T273
+R131	Anatomy_Disease Arg1:T288 Arg2:T289

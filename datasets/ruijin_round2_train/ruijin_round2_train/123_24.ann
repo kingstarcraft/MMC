@@ -1,0 +1,521 @@
+T1	Test 4703 4707	空腹血糖
+T2	SideEff 5152 5155	IFG
+T3	SideEff 5295 5298	IFG
+T4	SideEff 5148 5151	IGT
+T5	SideEff 5263 5266	IGT
+T6	Drug 121 126	巴利昔单抗
+T7	Drug 127 132	达利珠单抗
+T8	Disease 188 190;191 197	移植 后新发糖尿病
+T9	Drug 243 249	IL-2Ra
+T10	Drug 305 311	IL-2Ra
+T11	Drug 1577 1582	免疫抑制剂
+T12	Drug 1588 1593	糖皮质激素
+T13	Drug 1634 1638;1639 1640	免疫抑制 剂
+T14	Drug 1734 1741	单克隆抗体制剂
+T15	Drug 1748 1751;1752 1756	单克隆 抗体制剂
+T16	Drug 1902 1907	巴利昔单抗
+T17	Drug 1929 1934	达利珠单抗
+T18	Disease 1957 1965	移植后新发糖尿病
+T19	Disease 2132 2140	移植后新发糖尿病
+T20	Reason 2154 2156	年龄
+T21	Reason 2157 2164	术前糖代谢状态
+T22	Reason 2165 2171	供肝脂肪含量
+T23	Reason 2172 2179;2180 2181	术后免疫抑制治 疗
+T24	Drug 2198 2203	免疫抑制剂
+T25	Drug 2204 2209	糖皮质激素
+T26	Drug 2210 2212;2213 2219	钙调 磷酸酶抑制剂
+T27	Disease 2220 2228	移植后新发糖尿病
+T28	Drug 2272 2275;2276 2279	IL- 2Ra
+T29	Drug 2370 2379;2380 2381	IL-2 受体拮抗 剂
+T30	Disease 2404 2410	移植后糖尿病
+T31	Drug 2437 2443	IL-2Ra
+T32	Drug 2462 2468	IL-2Ra
+T33	Drug 2526 2532	IL-2Ra
+T34	Anatomy 2546 2550	淋巴细胞
+T35	Disease 3455 3458;3459 3462	移植排 斥反应
+T36	Disease 3465 3470	自身免疫病
+T37	Disease 3472 3480	T 细胞性白血病
+T38	Drug 3507 3513	IL-2Ra
+T39	Drug 3531 3537	IL-2Ra
+T40	Drug 3563 3569	IL-2Ra
+T41	Drug 3746 3750	他克莫司
+T42	Drug 4804 4809	IL-Ra
+T43	Drug 4825 4835	IL-2 受体拮抗剂
+T44	Disease 4837 4841	PTDM
+T45	Drug 4878 4882;4883 4891	IL-2 受体 拮 抗 剂
+T46	Disease 4898 4902	PTDM
+T47	Drug 4951 4957	IL-2Ra
+T48	Drug 5012 5018	IL-2Ra
+T49	SideEff 5024 5029	NODAT
+T50	Drug 5037 5043	抗胸腺球蛋白
+T51	Drug 5103 5108	巴利昔单抗
+T52	Drug 5126 5127;5128 5132	巴 利昔单抗
+T53	SideEff 5142 5147	NODAT
+T54	Drug 5164 5166	激素
+T55	Drug 5169 5172	MMF
+T56	Drug 5175 5178	CsA
+T57	Drug 5194 5198;5199 5200	巴利昔单 抗
+T58	SideEff 5208 5213	NODAT
+T59	Drug 5231 5234;5235 5237	巴利昔 单抗
+T60	SideEff 5243 5248	NODAT
+T61	SideEff 5422 5428	移植后糖尿病
+T62	Drug 5456 5462	IL-2Ra
+T63	Drug 5526 5532	IL-2Ra
+T64	SideEff 5538 5543	严重胰岛炎
+T65	SideEff 5544 5547	糖尿病
+T66	Drug 5561 5567	IL-2Ra
+T67	SideEff 5628 5633	NODAT
+T68	SideEff 5652 5657	NODAT
+T69	Drug 5834 5840	IL-2Ra
+T70	SideEff 5842 5847	糖代谢紊乱
+T71	SideEff 5922 5925	高血糖
+T72	SideEff 5974 5977	高血糖
+T73	SideEff 6013 6018	糖代谢紊乱
+T74	Drug 6025 6028	MMF
+T75	Drug 6463 6466	CsA
+T76	Drug 6499 6505	IL-2Ra
+T77	Disease 6544 6549	NODAT
+T78	Disease 6583 6588	NODAT
+T79	Drug 6618 6624	IL-2Ra
+T80	Test 6630 6632	血糖
+T81	Drug 6658 6664	IL-2Ra
+T82	Disease 6718 6723	NODAT
+T83	Symptom 6810 6814	血糖升高
+T84	Symptom 6762 6766	血糖升高
+T85	Drug 6821 6826	糖皮质激素
+T86	Drug 6827 6832	免疫抑制剂
+T87	Drug 6842 6843;6844 6848	糖 皮质激素
+T88	Drug 6849 6854	免疫抑制剂
+T89	SideEff 6856 6861	NODAT
+T90	Drug 6876 6879;6880 6883	IL- 2Ra
+T91	Drug 6894 6899	免疫抑制剂
+T92	Drug 6907 6909;6910 6913	糖皮 质激素
+T93	Drug 6914 6918	CNIs
+T94	Anatomy 7086 7093	Treg 细胞
+T95	Disease 7096 7098;7099 7104	自身 免疫性疾病
+T96	Test 7127 7134	Treg 细胞
+T97	Drug 7168 7174	IL-2Ra
+T98	Anatomy 7205 7212	Treg 细胞
+T99	Anatomy 7221 7225	T 细胞
+T100	Anatomy 7229 7236	Treg 亚群
+T101	Disease 7238 7242	T1DM
+T102	Disease 7261 7264	糖尿病
+T103	Disease 7344 7347	胰岛炎
+T104	Drug 7383 7391	IL-2 类似物
+T105	Disease 7394 7397	糖尿病
+T106	Anatomy 7427 7429	胰岛
+T107	Drug 7435 7441	IL-2Ra
+T108	Anatomy 7444 7451	Treg 亚群
+T109	Disease 7504 7509	NODAT
+T110	Drug 7537 7543	IL-2Ra
+T111	Drug 7598 7604	IL-2Ra
+T112	Drug 7615 7617;7618 7621	达利 珠单抗
+T113	Drug 7623 7629	IL-2Ra
+T114	Drug 7652 7657	糖皮质激素
+T115	Drug 7658 7663	免疫抑制剂
+T116	Disease 7670 7678;7679 7680	移植后急性排斥反 应
+T117	Drug 7688 7694	IL-2Ra
+T118	Drug 7718 7724	IL-2Ra
+T119	Disease 1046 1051	NODAT
+T120	Disease 2008 2013	NODAT
+T121	SideEff 5751 5756	NODAT
+T122	Drug 2590 2595	巴利昔单抗
+T123	Drug 5355 5360	巴利昔单抗
+T124	Drug 5399 5404	巴利昔单抗
+T125	Drug 5621 5626	巴利昔单抗
+T126	Drug 7609 7614	巴利昔单抗
+T127	Drug 2775 2780	达利珠单抗
+T128	Drug 2820 2825	达利珠单抗
+T129	Drug 2844 2849	达利珠单抗
+T130	Drug 3040 3045	达利珠单抗
+T132	Drug 3735 3740	达利珠单抗
+T133	Drug 4005 4010	达利珠单抗
+T134	Drug 1696 1701	免疫抑制剂
+T135	Operation 368 372	器官移植
+T136	Operation 1552 1556	器官移植
+T137	Drug 42 55	白细胞介素 2 受体拮抗剂
+T138	Drug 1595 1603	钙调磷酸酶抑制剂
+T139	Drug 1801 1821;1822 1829	白细胞介素 2( interleukin 2)受体拮抗剂
+T140	Drug 1869 1870;1871 1881	抗 CD25 单克隆抗体
+T141	Disease 2022 2028	的代谢并发症
+T143	Disease 2424 2426	移植
+T144	Disease 2470 2472	移植
+T145	Drug 2807 2818	个人源化单克隆抗体药物
+T146	Drug 3082 3087	IL-2R
+T147	Anatomy 3249 3253	IL-2
+T148	Drug 3335 3340	IL-2R
+T149	Reason 3829 3841;3842 3843	丙型肝炎病毒(HCV)感 染
+T150	Drug 3866 3868	激素
+T151	Drug 3873 3875	激素
+T152	Drug 3878 3880	激素
+T153	Disease 4048 4056	伴 HCV 感染
+T154	Duration 4299 4303	6 个月
+T155	Duration 4121 4122;4123 4125	6 个月
+T156	Duration 4433 4436;4437 4438	6 个 月
+T157	Disease 4959 4961	移植
+T158	Level 4997 4999	早期
+T159	Drug 5001 5003	激素
+T160	Drug 5669 5671	激素
+T161	Symptom 6065 6072;6073 6074	伴 HCV 感 染
+T162	Reason 6688 6696	术后急性排斥反应
+T163	Disease 7050 7057	自身免疫性疾病
+T164	Anatomy 7113 7117	IL-2
+T165	Anatomy 7185 7189	IL-2
+T166	Disease 7267 7272;7273 7275	非肥胖性糖 尿病
+T167	Disease 7312 7319;7320 7321	自身免疫性糖尿 病
+T168	Anatomy 7334 7338	IL-2
+T169	Disease 7459 7461	移植
+T170	Operation 7648 7650	移植
+T171	Drug 1627 1630	CNI
+T172	Disease 1683 1690	移植后排斥反应
+T173	Disease 1781 1787	急性排斥反应
+T174	Drug 1858 1864	IL-2Ra
+T175	Drug 1923 1926	Bas
+T176	Drug 1949 1952	Dac
+T177	Symptom 2060 2065;2066 2067	发病时间提 前
+T178	Anatomy 3139 3143	淋巴细胞
+T179	Drug 3182 3188	IL-2Ra
+T180	Operation 3602 3605	肝移植
+T181	Test_Value 3982 3991	10% 对 45%
+T182	Method 4092 4096	早期终止
+T183	Method 4112 4114	维持
+T184	Method 4139 4143	早期终止
+T185	Test 4153 4156	发生率
+T186	Test_Value 4165 4174	12% 对 32%
+T189	Drug 4571 4577	IL-2Ra
+T190	Disease 4710 4716	移植后糖尿病
+T191	Disease 4752 4756	PTDM
+T199	Operation 5873 5876	肝移植
+T200	SideEff 5957 5959;5960 5961	糖尿 病
+T201	Drug 6005 6011	IL-2Ra
+T202	Drug 6192 6198	IL-2Ra
+T203	Operation 6371 6374	肾移植
+T204	Anatomy 6395 6397	肾脏
+T205	Disease 6420 6423	糖尿病
+T206	Disease 6768 6772	应激反应
+T207	Disease 6742 6749	术后急性排斥反
+T208	Anatomy 7122 7125	外周血
+T209	Reason 7245 7249	免疫异常
+T211	SideEff 7547 7553	移植后糖代谢
+T212	SideEff 7696 7703	移植受体糖代谢
+T213	SideEff 7726 7736	移植后机体糖代谢状态
+T216	Operation 56 60	器官移植
+T217	Drug 108 118	IL-2 受体拮抗剂
+T219	Operation 1570 1574	器官移植
+T220	Drug 1659 1666	新型免疫抑制剂
+T221	Operation 1764 1768	器官移植
+T222	Operation 2015 2019	器官移植
+T223	Disease 2048 2054	心血管并发症
+T224	Symptom 2068 2074	发生排斥反应
+T225	Symptom 2075 2081	感染风险增加
+T226	Symptom 2082 2089	移植物功能丧失
+T227	Symptom 2090 2094;2095 2096	死亡率增 加
+T228	Operation 2292 2296	器官移植
+T229	Operation 2352 2355	肝移植
+T230	Drug 2504 2517	IL-2R 两种单克隆抗体
+T231	Anatomy 3198 3199;3200 3204	T 淋巴细胞
+T232	Anatomy 3432 3441	静息 T、B 细胞
+T233	Anatomy 3447 3454	活化 T 细胞
+T234	Anatomy 3481 3488	异常 T 细胞
+T240	SideEff 3727 3729;3730 3731	糖尿 病
+T241	SideEff 3786 3789	高血糖
+T242	Operation 3846 3849	肝移植
+T243	Drug 3886 3890	他克莫司
+T244	Drug 3905 3909	他克莫司
+T245	Drug 3910 3913	MMF
+T246	Drug 3914 3919	达利珠单抗
+T247	Drug 3931 3935	他克莫司
+T248	Drug 3936 3938	激素
+T249	Drug 3946 3950	他克莫司
+T250	Drug 3951 3954	MMF
+T251	Drug 3955 3957	激素
+T252	SideEff 3975 3978	糖尿病
+T253	Operation 4057 4060	肝移植
+T263	Operation 4227 4230	肾移植
+T270	SideEff 4310 4313;4314 4316	新发糖 尿病
+T271	SideEff 4350 4353	高血糖
+T272	Operation 4428 4431	肾移植
+T273	SideEff 4453 4458	NODAT
+T274	Operation 4511 4514	肝移植
+T275	Operation 4656 4659	肝移植
+T276	Operation 4993 4996	肾移植
+T277	Operation 5117 5120	肾移植
+T278	SideEff 5288 5294	空腹血糖受损
+T279	SideEff 5406 5414	移植后糖代谢紊乱
+T280	SideEff 5468 5473	NODAT
+T281	Operation 5604 5607	肾移植
+T282	Operation 5690 5693	肾移植
+T284	SideEff 5787 5790	高血糖
+T285	SideEff 5906 5909	糖尿病
+T286	Operation 6075 6078	肝移植
+T289	SideEff 6134 6139	NODAT
+T290	SideEff 6201 6206	NODAT
+T291	Operation 6235 6238	肝移植
+T293	SideEff 6297 6302	NODAT
+T294	SideEff 6325 6327;6328 6329	高血 糖
+T296	SideEff 6517 6520	高血糖
+T297	Test 6551 6557	移植受体血糖
+T298	SideEff 6634 6639	NODAT
+T299	Reason 6728 6738	术后发生急性排斥反应
+T300	Disease 6795 6801	急性排斥反应
+T301	Level 6836 6838	早期
+T302	Amount 6838 6840	大量
+T303	Operation 6890 6893	肾移植
+T304	SideEff 6949 6952	糖代谢
+T305	Anatomy 6965 6969	Treg
+T306	Anatomy 7003 7011	抑制性 T 细胞
+T307	Anatomy 6973 6977	Treg
+T308	Disease 7143 7150	自身免疫性疾病
+T309	Disease 7193 7200	自身免疫性疾病
+T310	Disease 7353 7365	器官特异性自身免疫性疾病
+T311	Anatomy 7419 7426	Treg 亚群
+T312	Operation 7632 7636	器官移植
+T313	SideEff 7747 7752	NODAT
+T314	SideEff 4147 4152	NODAT
+T315	SideEff 4585 4590	NODAT
+T317	Drug 3891 3896	达利珠单抗
+T334	Disease 140 142;143 152	器官 移植后急性排斥反应
+T218	Operation 155 159	器官移植
+T142	Drug 3310 3316	IL-2Rα
+T214	Drug 3398 3404	IL-2Rα
+T215	Anatomy 3424 3430	IL-2Rα
+T344	Operation 3515 3517	移植
+T254	Drug 4073 4090	他克莫司+MMF+巴利昔单抗+激素
+T255	Drug 4100 4111	他克莫司+MMF+激素
+T256	Drug 4130 4139	IL-2Ra+激素
+T131	Drug 3662 3669;3670 3676	他克莫司+达利 珠单抗无激素
+T235	Drug 3696 3698;3699 3704	他克 莫司+激素
+T236	Drug 3679 3684	达利珠单抗
+T237	Drug 4012 4014	激素
+T238	Drug 4022 4024	激素
+T239	Drug 4264 4281;4282 4292	达利珠单抗+他克莫司+MMF 或激 素+他克莫司+MMF
+T187	Drug 4368 4370	激素
+T188	Drug 4357 4363	IL-2Ra
+T257	Drug 4439 4450	他克莫司+MMF+激素
+T258	Drug 4464 4469;4470 4479	他克莫司+ MMF+达利珠单抗
+T259	Disease 4680 4683	糖尿病
+T260	Disease 4762 4766	PTDM
+T192	Disease 5114 5117	糖尿病
+T193	Drug 5710 5721	他克莫司+巴利昔单抗组
+T194	Drug 5722 5725;5726 5733	他克莫 司+MMF 组
+T195	Drug 5734 5745	他克莫司+MMF+激素
+T196	Drug 5886 5896	他克莫司+达利珠单抗
+T197	Drug 5938 5946	他克莫司+MMF
+T198	Drug 6090 6097	他克莫司+激素
+T261	Drug 6098 6103;6104 6110	他克莫司+ MMF+激素
+T262	Drug 6111 6125	他克莫司+MMF+达利珠单抗
+T264	Drug 6260 6274	达利珠单抗+MMF+他克莫司
+T265	Drug 6280 6284;6285 6288	激素+他 克莫司
+T266	Drug 6468 6479	他克莫司+MMF+激素
+R1	Drug_Disease Arg1:T9 Arg2:T8
+R2	Drug_Disease Arg1:T217 Arg2:T334
+R3	Drug_Disease Arg1:T6 Arg2:T334
+R4	Drug_Disease Arg1:T7 Arg2:T334
+R5	Drug_Disease Arg1:T10 Arg2:T8
+R6	Drug_Disease Arg1:T171 Arg2:T172
+R7	Drug_Disease Arg1:T12 Arg2:T172
+R8	Drug_Disease Arg1:T14 Arg2:T172
+R9	Drug_Disease Arg1:T15 Arg2:T172
+R10	Drug_Disease Arg1:T174 Arg2:T173
+R11	Drug_Disease Arg1:T175 Arg2:T173
+R12	Drug_Disease Arg1:T16 Arg2:T173
+R13	Drug_Disease Arg1:T17 Arg2:T173
+R14	Drug_Disease Arg1:T176 Arg2:T173
+R15	Symptom_Disease Arg1:T177 Arg2:T18
+R16	Symptom_Disease Arg1:T224 Arg2:T18
+R17	Symptom_Disease Arg1:T225 Arg2:T18
+R18	Symptom_Disease Arg1:T226 Arg2:T18
+R19	Symptom_Disease Arg1:T227 Arg2:T18
+R20	Drug_Disease Arg1:T24 Arg2:T27
+R21	Drug_Disease Arg1:T25 Arg2:T27
+R22	Drug_Disease Arg1:T26 Arg2:T27
+R23	Drug_Disease Arg1:T29 Arg2:T30
+R24	Drug_Disease Arg1:T31 Arg2:T30
+R25	Drug_Disease Arg1:T32 Arg2:T30
+R26	Test_Disease Arg1:T1 Arg2:T190
+R27	SideEff-Drug Arg1:T279 Arg2:T124
+R28	SideEff-Drug Arg1:T70 Arg2:T69
+R29	SideEff-Drug Arg1:T240 Arg2:T132
+R30	SideEff-Drug Arg1:T240 Arg2:T41
+R31	SideEff-Drug Arg1:T241 Arg2:T132
+R32	SideEff-Drug Arg1:T241 Arg2:T41
+R33	SideEff-Drug Arg1:T315 Arg2:T189
+R34	Drug_Disease Arg1:T45 Arg2:T46
+R35	Drug_Disease Arg1:T43 Arg2:T44
+R36	SideEff-Drug Arg1:T280 Arg2:T62
+R37	SideEff-Drug Arg1:T73 Arg2:T201
+R38	SideEff-Drug Arg1:T73 Arg2:T74
+R39	SideEff-Drug Arg1:T290 Arg2:T202
+R40	SideEff-Drug Arg1:T296 Arg2:T76
+R41	SideEff-Drug Arg1:T296 Arg2:T75
+R42	SideEff-Drug Arg1:T298 Arg2:T79
+R43	Symptom_Disease Arg1:T84 Arg2:T206
+R44	Symptom_Disease Arg1:T83 Arg2:T300
+R45	SideEff-Drug Arg1:T304 Arg2:T92
+R46	SideEff-Drug Arg1:T304 Arg2:T93
+R47	Anatomy_Disease Arg1:T94 Arg2:T95
+R48	Anatomy_Disease Arg1:T100 Arg2:T101
+R49	Anatomy_Disease Arg1:T99 Arg2:T101
+R50	Drug_Disease Arg1:T104 Arg2:T105
+R51	SideEff-Drug Arg1:T211 Arg2:T110
+R52	SideEff-Drug Arg1:T212 Arg2:T117
+R53	SideEff-Drug Arg1:T213 Arg2:T118
+R54	SideEff-Drug Arg1:T313 Arg2:T118
+R55	Drug_Disease Arg1:T138 Arg2:T172
+R56	Drug_Disease Arg1:T13 Arg2:T172
+R57	Drug_Disease Arg1:T220 Arg2:T172
+R58	Drug_Disease Arg1:T134 Arg2:T172
+R59	Drug_Disease Arg1:T139 Arg2:T173
+R60	Drug_Disease Arg1:T140 Arg2:T173
+R61	Drug_Disease Arg1:T28 Arg2:T27
+R62	Anatomy_Disease Arg1:T215 Arg2:T35
+R63	Anatomy_Disease Arg1:T215 Arg2:T36
+R64	Anatomy_Disease Arg1:T215 Arg2:T37
+R65	SideEff-Drug Arg1:T252 Arg2:T133
+R66	SideEff-Drug Arg1:T252 Arg2:T249
+R67	SideEff-Drug Arg1:T252 Arg2:T150
+R68	SideEff-Drug Arg1:T252 Arg2:T151
+R69	Method_Drug Arg1:T182 Arg2:T254
+R70	Method_Drug Arg1:T183 Arg2:T255
+R71	Duration_Drug Arg1:T155 Arg2:T254
+R72	Duration_Drug Arg1:T155 Arg2:T255
+R73	Method_Drug Arg1:T184 Arg2:T256
+R74	SideEff-Drug Arg1:T314 Arg2:T256
+R75	SideEff-Drug Arg1:T240 Arg2:T131
+R76	SideEff-Drug Arg1:T240 Arg2:T235
+R77	SideEff-Drug Arg1:T240 Arg2:T236
+R78	SideEff-Drug Arg1:T252 Arg2:T237
+R79	SideEff-Drug Arg1:T252 Arg2:T238
+R80	Duration_Drug Arg1:T154 Arg2:T239
+R81	SideEff-Drug Arg1:T270 Arg2:T239
+R82	SideEff-Drug Arg1:T271 Arg2:T239
+R83	SideEff-Drug Arg1:T271 Arg2:T187
+R84	SideEff-Drug Arg1:T270 Arg2:T187
+R85	SideEff-Drug Arg1:T270 Arg2:T188
+R86	SideEff-Drug Arg1:T271 Arg2:T188
+R87	SideEff-Drug Arg1:T273 Arg2:T257
+R88	SideEff-Drug Arg1:T273 Arg2:T258
+R89	Test_Disease Arg1:T1 Arg2:T259
+R90	Test_Disease Arg1:T1 Arg2:T191
+R91	Test_Disease Arg1:T1 Arg2:T260
+R92	Drug_Disease Arg1:T42 Arg2:T260
+R93	Drug_Disease Arg1:T42 Arg2:T191
+R94	Drug_Disease Arg1:T42 Arg2:T190
+R95	Drug_Disease Arg1:T42 Arg2:T259
+R96	Drug_Disease Arg1:T47 Arg2:T157
+R97	SideEff-Drug Arg1:T64 Arg2:T63
+R98	SideEff-Drug Arg1:T65 Arg2:T63
+R99	SideEff-Drug Arg1:T61 Arg2:T124
+R100	SideEff-Drug Arg1:T5 Arg2:T59
+R101	SideEff-Drug Arg1:T60 Arg2:T59
+R102	SideEff-Drug Arg1:T278 Arg2:T59
+R103	SideEff-Drug Arg1:T3 Arg2:T59
+R104	SideEff-Drug Arg1:T58 Arg2:T57
+R105	SideEff-Drug Arg1:T58 Arg2:T54
+R106	SideEff-Drug Arg1:T58 Arg2:T55
+R107	SideEff-Drug Arg1:T58 Arg2:T56
+R108	SideEff-Drug Arg1:T53 Arg2:T52
+R109	SideEff-Drug Arg1:T4 Arg2:T52
+R110	SideEff-Drug Arg1:T2 Arg2:T52
+R111	SideEff-Drug Arg1:T49 Arg2:T50
+R112	SideEff-Drug Arg1:T49 Arg2:T48
+R113	SideEff-Drug Arg1:T67 Arg2:T125
+R114	SideEff-Drug Arg1:T68 Arg2:T160
+R115	SideEff-Drug Arg1:T121 Arg2:T193
+R116	SideEff-Drug Arg1:T121 Arg2:T194
+R117	SideEff-Drug Arg1:T121 Arg2:T195
+R118	SideEff-Drug Arg1:T284 Arg2:T194
+R119	SideEff-Drug Arg1:T284 Arg2:T193
+R120	SideEff-Drug Arg1:T284 Arg2:T195
+R121	SideEff-Drug Arg1:T285 Arg2:T196
+R122	SideEff-Drug Arg1:T71 Arg2:T196
+R123	SideEff-Drug Arg1:T200 Arg2:T197
+R124	SideEff-Drug Arg1:T72 Arg2:T197
+R125	SideEff-Drug Arg1:T289 Arg2:T198
+R126	SideEff-Drug Arg1:T289 Arg2:T261
+R127	SideEff-Drug Arg1:T289 Arg2:T262
+R128	SideEff-Drug Arg1:T293 Arg2:T264
+R129	SideEff-Drug Arg1:T293 Arg2:T265
+R130	SideEff-Drug Arg1:T294 Arg2:T264
+R131	SideEff-Drug Arg1:T294 Arg2:T265
+R132	SideEff-Drug Arg1:T296 Arg2:T266
+R133	Amount_Drug Arg1:T302 Arg2:T87
+R134	SideEff-Drug Arg1:T89 Arg2:T85
+R135	SideEff-Drug Arg1:T89 Arg2:T86
+R136	SideEff-Drug Arg1:T89 Arg2:T87
+R137	SideEff-Drug Arg1:T89 Arg2:T88
+R138	SideEff-Drug Arg1:T304 Arg2:T91
+R139	Anatomy_Disease Arg1:T306 Arg2:T163
+R140	Anatomy_Disease Arg1:T305 Arg2:T163
+R141	Anatomy_Disease Arg1:T307 Arg2:T163
+R142	Anatomy_Disease Arg1:T164 Arg2:T308
+R143	Anatomy_Disease Arg1:T208 Arg2:T308
+R144	Test_Disease Arg1:T96 Arg2:T308
+R145	Anatomy_Disease Arg1:T165 Arg2:T309
+R146	Anatomy_Disease Arg1:T98 Arg2:T309
+R147	Anatomy_Disease Arg1:T168 Arg2:T103
+R148	Anatomy_Disease Arg1:T168 Arg2:T310
+R149	Drug_Disease Arg1:T107 Arg2:T105
+R150	Anatomy_Disease Arg1:T311 Arg2:T105
+R151	Anatomy_Disease Arg1:T106 Arg2:T105
+R152	Anatomy_Disease Arg1:T108 Arg2:T105
+R153	Drug_Disease Arg1:T111 Arg2:T116
+R154	Drug_Disease Arg1:T126 Arg2:T116
+R155	Drug_Disease Arg1:T112 Arg2:T116
+R156	Drug_Disease Arg1:T113 Arg2:T116
+R157	Drug_Disease Arg1:T15 Arg2:T173
+R158	Drug_Disease Arg1:T50 Arg2:T49
+R159	Drug_Disease Arg1:T48 Arg2:T49
+R160	Drug_Disease Arg1:T51 Arg2:T53
+R161	Drug_Disease Arg1:T52 Arg2:T53
+R162	Drug_Disease Arg1:T54 Arg2:T58
+R163	Drug_Disease Arg1:T55 Arg2:T58
+R164	Drug_Disease Arg1:T56 Arg2:T58
+R165	Drug_Disease Arg1:T57 Arg2:T58
+R166	Drug_Disease Arg1:T59 Arg2:T60
+R167	Drug_Disease Arg1:T59 Arg2:T5
+R168	Drug_Disease Arg1:T125 Arg2:T67
+R169	Drug_Disease Arg1:T28 Arg2:T30
+R170	Anatomy_Disease Arg1:T234 Arg2:T37
+R171	Anatomy_Disease Arg1:T233 Arg2:T35
+R172	Anatomy_Disease Arg1:T232 Arg2:T35
+R173	SideEff-Drug Arg1:T314 Arg2:T262
+R174	SideEff-Drug Arg1:T314 Arg2:T261
+R175	Method_Drug Arg1:T183 Arg2:T260
+R176	Method_Drug Arg1:T182 Arg2:T257
+R177	Method_Drug Arg1:T182 Arg2:T256
+R178	Method_Drug Arg1:T182 Arg2:T255
+R179	Method_Drug Arg1:T183 Arg2:T259
+R180	Method_Drug Arg1:T183 Arg2:T258
+R181	Duration_Drug Arg1:T155 Arg2:T260
+R182	Duration_Drug Arg1:T155 Arg2:T259
+R183	Duration_Drug Arg1:T155 Arg2:T258
+R184	Method_Drug Arg1:T184 Arg2:T262
+R185	Method_Drug Arg1:T184 Arg2:T261
+R186	Duration_Drug Arg1:T158 Arg2:T159
+R187	Drug_Disease Arg1:T62 Arg2:T61
+R188	Drug_Disease Arg1:T63 Arg2:T64
+R189	Drug_Disease Arg1:T63 Arg2:T65
+R190	Drug_Disease Arg1:T160 Arg2:T68
+R191	Anatomy_Disease Arg1:T204 Arg2:T205
+R192	Drug_Disease Arg1:T75 Arg2:T205
+R193	Test_Disease Arg1:T297 Arg2:T77
+R194	Test_Disease Arg1:T80 Arg2:T78
+R195	Drug_Disease Arg1:T79 Arg2:T78
+R196	Drug_Disease Arg1:T88 Arg2:T89
+R197	Duration_Drug Arg1:T301 Arg2:T87
+R198	Drug_Disease Arg1:T87 Arg2:T89
+R199	Drug_Disease Arg1:T86 Arg2:T89
+R200	Drug_Disease Arg1:T85 Arg2:T89
+R201	Drug_Disease Arg1:T90 Arg2:T89
+R202	Drug_Disease Arg1:T91 Arg2:T89
+R203	Drug_Disease Arg1:T92 Arg2:T89
+R204	Drug_Disease Arg1:T93 Arg2:T89
+R205	Anatomy_Disease Arg1:T96 Arg2:T308
+R206	Drug_Disease Arg1:T97 Arg2:T309
+R207	Drug_Disease Arg1:T107 Arg2:T169
+R208	Anatomy_Disease Arg1:T108 Arg2:T169
+R209	Anatomy_Disease Arg1:T106 Arg2:T169
+R210	Anatomy_Disease Arg1:T311 Arg2:T169
+R211	Drug_Disease Arg1:T115 Arg2:T116
+R212	Drug_Disease Arg1:T114 Arg2:T116

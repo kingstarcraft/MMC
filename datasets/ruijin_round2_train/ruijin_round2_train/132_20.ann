@@ -1,0 +1,572 @@
+T1	Drug 3735 3740	他汀类药物
+T2	Drug 3854 3859	他汀类药物
+T3	Drug 4781 4786	他汀类药物
+T4	Test 2644 2649	HDL-C
+T5	Test 2859 2864	HDL-C
+T6	Test 2661 2666	LDL-C
+T7	Test 3084 3089	LDL-C
+T8	Drug 226 228	他汀
+T9	Drug 1347 1349	他汀
+T10	Reason 1444 1446	他汀
+T11	Drug 2790 2792	他汀
+T12	Drug 3680 3682	他汀
+T13	Drug 3688 3690	他汀
+T14	Drug 3788 3790	他汀
+T15	Drug 3810 3812	他汀
+T16	Drug 3914 3916	他汀
+T17	Drug 3963 3965	他汀
+T18	Drug 3997 3999	他汀
+T19	Drug 4018 4020	他汀
+T20	Drug 4091 4093	他汀
+T21	Drug 4153 4155	他汀
+T22	Drug 4241 4243	他汀
+T23	Drug 4320 4322	他汀
+T24	Drug 4349 4351	他汀
+T25	Drug 4421 4423	他汀
+T26	Drug 4497 4499	他汀
+T27	Drug 4538 4540	他汀
+T28	Drug 4639 4641	他汀
+T29	Drug 4654 4658	普伐他汀
+T30	Drug 4679 4683	辛伐他汀
+T31	Drug 4737 4739	他汀
+T32	Drug 4807 4809	他汀
+T33	Drug 4838 4840	他汀
+T34	Drug 4852 4854	他汀
+T35	Drug 4901 4903	他汀
+T36	Drug 5031 5033	他汀
+T37	Drug 5109 5111	他汀
+T38	Drug 5129 5131	他汀
+T39	Drug 5228 5230	他汀
+T40	Drug 5255 5257	他汀
+T41	Drug 5357 5359	他汀
+T42	Drug 5689 5691	他汀
+T43	Drug 5938 5940	他汀
+T44	Drug 5983 5985	他汀
+T45	Drug 6014 6016	他汀
+T46	Drug 6070 6072	他汀
+T47	Drug 6158 6160	他汀
+T48	Drug 6263 6265	他汀
+T49	Drug 6497 6499	他汀
+T50	Drug 6655 6657	他汀
+T51	Drug 6824 6826	他汀
+T52	Test 2633 2640;2641 2643	高密度脂蛋白胆 固醇
+T53	Test 2651 2660	低密度脂蛋白胆固醇
+T54	Test 2628 2632	总胆固醇
+T55	Test 2754 2758	总胆固醇
+T56	Disease 59 63	结直肠癌
+T57	Disease 146 150	结直肠癌
+T58	Disease 167 171	结直肠癌
+T59	Disease 215 219	结直肠癌
+T60	Disease 1017 1021	结直肠癌
+T61	Disease 1056 1060	结直肠癌
+T62	Disease 1176 1180	结直肠癌
+T63	Disease 1233 1237	结直肠癌
+T64	Disease 1244 1248	结直肠癌
+T65	Disease 1374 1378	结直肠癌
+T66	Disease 1448 1452	结直肠癌
+T67	Disease 1482 1486	结直肠癌
+T68	Disease 1545 1549	结直肠癌
+T69	Disease 1562 1566	结直肠癌
+T70	Disease 1613 1617	结直肠癌
+T71	Disease 1636 1640	结直肠癌
+T72	Disease 1668 1672	结直肠癌
+T73	Disease 1700 1704	结直肠癌
+T74	Disease 1756 1760	结直肠癌
+T75	Disease 1786 1790	结直肠癌
+T76	Disease 1848 1852	结直肠癌
+T77	Disease 1885 1889	结直肠癌
+T78	Disease 1907 1911	结直肠癌
+T79	Disease 1933 1937	结直肠癌
+T80	Disease 1955 1959	结直肠癌
+T81	Disease 1996 2000	结直肠癌
+T82	Disease 2036 2040	结直肠癌
+T83	Disease 2080 2084	结直肠癌
+T84	Disease 2102 2106	结直肠癌
+T85	Disease 2125 2129	结直肠癌
+T86	Disease 2231 2235	结直肠癌
+T87	Disease 2269 2273	结直肠癌
+T88	Disease 2325 2329	结直肠癌
+T89	Disease 2362 2366	结直肠癌
+T90	Disease 2382 2386	结直肠癌
+T91	Disease 2396 2400	结直肠癌
+T92	Disease 2435 2439	结直肠癌
+T93	Disease 2462 2466	结直肠癌
+T94	Disease 2490 2494	结直肠癌
+T95	Disease 2508 2512	结直肠癌
+T96	Disease 2545 2549	结直肠癌
+T97	Disease 2610 2611;2612 2615	结 直肠癌
+T98	Disease 2705 2709	结直肠癌
+T99	Disease 2741 2745	结直肠癌
+T100	Disease 2765 2769	结直肠癌
+T101	Disease 2835 2839	结直肠癌
+T102	Disease 2868 2872	结直肠癌
+T103	Disease 2908 2910;2911 2913	结直 肠癌
+T104	Disease 3057 3061	结直肠癌
+T105	Disease 3196 3200	结直肠癌
+T106	Disease 3236 3240	结直肠癌
+T107	Disease 3283 3287	结直肠癌
+T108	Disease 3351 3353;3354 3356	结直 肠癌
+T109	Disease 3415 3419	结直肠癌
+T110	Disease 3433 3437	结直肠癌
+T111	Disease 3556 3560	结直肠癌
+T112	Disease 3610 3614	结直肠癌
+T113	Disease 3645 3649	结直肠癌
+T114	Disease 3683 3687	结直肠癌
+T115	Disease 3755 3759	结直肠癌
+T116	Disease 3818 3822	结直肠癌
+T117	Disease 3865 3869	结直肠癌
+T118	Disease 3920 3924	结直肠癌
+T119	Disease 3974 3978	结直肠癌
+T120	Disease 4001 4005	结直肠癌
+T121	Disease 4032 4036	结直肠癌
+T122	Disease 4062 4066	结直肠癌
+T123	Disease 4097 4101	结直肠癌
+T124	Disease 4183 4187	结直肠癌
+T125	Disease 4227 4231	结直肠癌
+T126	Disease 4245 4249	结直肠癌
+T127	Disease 4545 4549	结直肠癌
+T128	Disease 4562 4566	结直肠癌
+T129	Disease 4603 4607	结直肠癌
+T130	Disease 4642 4646	结直肠癌
+T131	Disease 4661 4665	结直肠癌
+T132	Disease 4686 4690	结直肠癌
+T133	Disease 4744 4748	结直肠癌
+T134	Disease 4787 4791	结直肠癌
+T135	Disease 4812 4816	结直肠癌
+T136	Disease 4842 4846	结直肠癌
+T138	Disease 5215 5219	结直肠癌
+T139	Disease 5902 5906	结直肠癌
+T140	Disease 6017 6021	结直肠癌
+T141	Disease 6532 6536	结直肠癌
+T142	Disease 6568 6572	结直肠癌
+T143	Disease 6613 6617	结直肠癌
+T144	Disease 6686 6690	结直肠癌
+T145	Disease 6722 6726	结直肠癌
+T146	Disease 6733 6737	结直肠癌
+T147	Disease 1070 1074	前列腺癌
+T148	Test 2668 2672	甘油三酯
+T149	Disease 1083 1086	乳腺癌
+T150	Disease 1107 1110	结肠癌
+T151	Disease 1307 1310	结肠癌
+T152	Disease 3485 3488	结肠癌
+T153	Disease 4312 4315	结肠癌
+T154	Disease 4443 4446	结肠癌
+T155	Disease 4503 4506	结肠癌
+T156	Disease 1066 1068	肺癌
+T157	Disease 1080 1082	肺癌
+T158	Treatment 1124 1126	放疗
+T159	Disease 1195 1200	腺瘤性息肉
+T160	Drug 1331 1337	非甾体抗炎药
+T161	Drug 1339 1345	NSAIDs
+T162	Disease 1371 1373	腺瘤
+T163	Disease 1494 1498	心血管病
+T164	Reason 1487 1493	高胆固醇血症
+T165	Reason 1509 1511	吸烟
+T166	Reason 1512 1513;1514 1515	肥 胖
+T167	Reason 1516 1518	年龄
+T168	Reason 1519 1525	西方饮食方式
+T169	Reason 1526 1528	性别
+T170	Disease 1532 1536	心血管病
+T171	Disease 1557 1561	心血管病
+T172	Disease 1586 1590	心血管病
+T173	Test 1986 1993	血清胆固醇水平
+T174	Reason 2013 2015	肥胖
+T175	Reason 2016 2020	血脂异常
+T176	Reason 2304 2306	肥胖
+T177	Reason 2307 2311	缺乏运动
+T178	Reason 2312 2317	高肉类摄入
+T179	Disease 2347 2349	肥胖
+T180	Test 2376 2381	血清胆固醇
+T181	Disease 2454 2456	腺瘤
+T182	Disease 2457 2460	原位癌
+T183	Test 2673 2675;2676 2682	载脂 蛋白 A-I
+T184	Test 2683 2689	Apo-AI
+T185	Test 2691 2697	载脂蛋白 B
+T186	Test 2698 2703	Apo B
+T187	Amount 2793 2796	低剂量
+T188	Drug 2796 2800	阿司匹林
+T189	Anatomy 2936 2940	IL-6
+T190	Anatomy 2943 2948	TNF-α
+T191	Anatomy 2971 2976	IL-10
+T192	Anatomy 3018 3023	IL-10
+T193	Test 3041 3044	HDL
+T194	Test 3076 3079	HDL
+T195	Test 3134 3137	HDL
+T196	Test 3144 3148;3149 3150	LDL- C
+T197	Reason 3187 3192	胰岛素抵抗
+T198	Test 3209 3214	血清胆固醇
+T199	Anatomy 3221 3223	肝脏
+T200	Operation 3470 3475	胆囊切除术
+T201	Method 3584 3586	口服
+T202	Drug 3586 3589;3590 3592	熊去氧 胆酸
+T203	Drug 3593 3597	UDCA
+T204	Disease 3621 3630	原发性胆汁性肝硬化
+T205	Method 3632 3634	口服
+T206	Amount 3634 3637	高剂量
+T207	Drug 3639 3643	UDCA
+T208	Anatomy 3695 3711	3-羟基 3-甲基戊二酰辅酶 A
+T209	Anatomy 3712 3719	HMG-CoA
+T210	Disease 3791 3796	心血管疾病
+T211	Drug 4077 4080	维生素
+T212	Drug 4156 4162	非甾体抗炎药
+T213	Drug 4163 4169	NSAIDs
+T214	Drug 4207 4211	阿司匹林
+T215	Drug 4216 4222	NASIDs
+T216	Drug 4258 4264	NASIDs
+T217	Drug 4279 4285	NASIDs
+T218	Disease 4316 4319	直肠癌
+T219	Disease 4378 4381	直肠癌
+T220	Disease 4426 4429	直肠癌
+T221	Disease 4719 4722	糖尿病
+T222	Disease 5057 5059	肿瘤
+T223	Anatomy 5143 5148	肠上皮细胞
+T224	Anatomy 5174 5179	肠上皮细胞
+T225	Anatomy 5183 5190	肠黏膜上皮细胞
+T226	Anatomy 5555 5561	结肠上皮细胞
+T227	Anatomy 5720 5725	TGF-β
+T228	Anatomy 5823 5828	肠黏膜上皮
+T229	Anatomy 5836 5844	肠上皮分泌性细胞
+T230	Disease 5879 5888;5889 5891	遗传性幼年型息肉综 合症
+T231	Disease 6122 6124	肿瘤
+T232	Anatomy 6148 6154	血管内皮细胞
+T233	Anatomy 6231 6237	血管内皮细胞
+T234	Anatomy 6324 6330	血管内皮细胞
+T235	Disease 6383 6385	肿瘤
+T236	Anatomy 6473 6477	肿瘤细胞
+T237	Drug 6665 6671	降胆固醇药物
+T238	Anatomy 210 213	胆固醇
+T239	Anatomy 221 224	胆汁酸
+T240	Disease 1096 1097;1098 1099	死 亡
+T241	Disease 1133 1135	肿瘤
+T242	Method 1327 1329	口服
+T243	Anatomy 1602 1605	胆固醇
+T244	Anatomy 1773 1776	胆固醇
+T245	Anatomy 1927 1929	脂肪
+T246	Anatomy 1974 1977	胆固醇
+T247	Anatomy 2051 2054	胰岛素
+T248	Anatomy 2055 2063	胰岛素样生长因子
+T249	Anatomy 2064 2066	瘦素
+T250	Anatomy 2254 2256	脂肪
+T251	Test 2571 2574	胆固醇
+T252	Anatomy 2580 2582	结肠
+T253	Anatomy 2603 2605	结肠
+T254	Disease 3120 3122	肿瘤
+T255	Disease 3156 3158	肿瘤
+T256	Anatomy 3227 3230	胆汁酸
+T257	Anatomy 3231 3234	胆汁酸
+T258	Anatomy 3256 3259	胆汁酸
+T259	Anatomy 3308 3311	胆固醇
+T260	Anatomy 3314 3319	初级胆汁酸
+T261	Anatomy 3367 3372	初级胆汁酸
+T262	Anatomy 3373 3375	肠道
+T263	Anatomy 3392 3395	石胆酸
+T264	Anatomy 3396 3400	脱氧胆酸
+T265	Anatomy 3403 3408	次级胆汁酸
+T266	Anatomy 3461 3466	次级胆汁酸
+T267	Anatomy 3498 3499;3500 3504	次 级胆汁酸
+T268	Anatomy 3727 3730	胆固醇
+T269	Disease 3992 3994	肿瘤
+T270	Anatomy 4855 4858	胆固醇
+T271	Anatomy 4893 4896	胆固醇
+T272	Anatomy 5094 5096	血管
+T273	Disease 5114 5116	肿瘤
+T274	Anatomy 5150 5153;5154 5157	隐窝- 绒毛轴
+T275	Anatomy 5332 5339	HMG-CoA
+T276	Anatomy 5562 5566;5567 5569	IEC- 18
+T277	Test 5618 5624	Bcl-xL
+T278	Test 5625 5630	cIAP1
+T279	Test 5633 5638	cFLIP
+T280	Anatomy 5654 5661	COLO205
+T281	Anatomy 5664 5670	HCT116
+T282	Anatomy 5696 5699	BMP
+T283	Anatomy 5712 5715	BMP
+T284	Anatomy 5726 5732	转化生长因子
+T285	Anatomy 5830 5833	BMP
+T286	Anatomy 5965 5968	BMP
+T287	Anatomy 5993 5996	BMP
+T288	Anatomy 6029 6031	血管
+T289	Anatomy 6053 6055	血管
+T290	Disease 6061 6063	肿瘤
+T291	Disease 6035 6037	肿瘤
+T292	Anatomy 6076 6078	血管
+T293	Anatomy 6083 6085	血管
+T294	Anatomy 6096 6097;6098 6099	血 管
+T295	Anatomy 6116 6118	血管
+T296	Anatomy 6137 6141	VEGF
+T297	Anatomy 6162 6164	血管
+T298	Anatomy 6193 6198	NF-kB
+T299	Anatomy 6215 6219	VEGF
+T300	Anatomy 6305 6310	E-选择素
+T301	Anatomy 6399 6402	胆固醇
+T302	Disease 6516 6518	肿瘤
+T303	Disease 6541 6543	致死
+T304	Disease 6592 6595;6596 6597	癌前病 变
+T305	Treatment 1128 1130	化疗
+T306	Reason 1418 1425	饮食胆固醇含量
+T307	Reason 1653 1655;1656 1658	饮食 结构
+T308	Reason 1876 1883	鸡蛋的过量摄入
+T309	Reason 1942 1943;1944 1951	总 热量摄入的增加
+T310	Treatment 2339 2344	低肉类摄入
+T311	Reason 1842 1847	红肉的摄取
+T312	Test_Value 2564 2566	降低
+T313	Test_Value 2529 2531	下降
+T314	Test 2814 2818	血清脂质
+T315	Disease 5040 5051	非心血管疾病相关的死亡
+T316	Drug 6647 6653	NSAIDs
+T317	Drug 6767 6768;6769 6774	传 统化学药物
+T318	Drug 6777 6783	分子靶向药物
+T319	Drug 6799 6805	NSAIDs
+T320	Reason 1746 1752	西方饮食方式
+T321	Reason 1767 1769	红肉
+T322	Anatomy 3328 3334	CYP7A1
+T323	Reason 2724 2729	HDL-C
+T324	Test 3100 3105	LDL-C
+T325	Reason 142 144	他汀
+T326	Drug 5513 5517	洛伐他汀
+T327	Drug 5588 5592	辛伐他汀
+T328	Drug 6224 6228	普伐他汀
+T329	Disease 2030 2035	代谢综合征
+T330	Disease 0 2	综述
+T331	Disease 6001 6005	结直肠癌
+T334	Disease 4356 4359	结肠癌
+T335	Anatomy 5647 5652	结肠癌细胞
+T336	Reason 53 58	胆固醇代谢
+T337	Reason 118 123	胆固醇代谢
+T338	Reason 124 131	血清胆固醇水平
+T339	Reason 132 139;140 141	胆固醇合成抑制 剂
+T340	Reason 161 166	胆固醇代谢
+T341	Disease 1207 1210;1211 1213	浸润性 肿瘤
+T342	Reason 1427 1434	血浆胆固醇水平
+T343	Reason 1435 1443	胆固醇合成抑制剂
+T344	Reason 1733 1739;1740 1745	富含胆固醇的 动物性食品
+T345	Reason 2021 2023;2024 2027	胰岛 素抵抗
+T346	Reason 2387 2395	高血清胆固醇水平
+T347	Test 2427 2432	血清胆固醇
+T348	Test 2470 2475	血清胆固醇
+T349	Reason 2484 2489	血清胆固醇
+T350	Test 2517 2523	血清的胆固醇
+T351	Test 2557 2562	血清胆固醇
+T352	Reason 2732 2738	Apo-AI
+T353	Test 2891 2894	HDL
+T354	Test 2925 2928	HDL
+T355	Symptom 3166 3171	低 HDL
+T356	Disease 3174 3179	胰岛素抵抗
+T357	Anatomy 4873 4880;4881 4884	HMG-CoA 还原酶
+T359	Anatomy 5205 5209	隐窝细胞
+T360	Test 5612 5617	Bcl-2
+T361	Reason 5861 5867	BMPR1a
+T362	Reason 5870 5875	SMAD4
+T363	Disease 6105 6109	心血管病
+T364	Anatomy 6203 6213	血管内皮细胞生长因子
+T365	Reason 6376 6382	胆固醇的代谢
+T366	Anatomy 6502 6511;6512 6514	HMG-CoA 还 原酶
+T367	Drug 6181 6183;6184 6186	辛伐 他汀
+T368	Anatomy 3541 3547	结直肠癌细胞
+T137	Anatomy 5132 5138	结直肠癌细胞
+T332	Anatomy 6338 6339;6340 6345	结 直肠癌细胞
+T333	Anatomy 6317 6323	结直肠癌细胞
+R1	Treatment_Disease Arg1:T158 Arg2:T150
+R2	Treatment_Disease Arg1:T158 Arg2:T241
+R3	Method_Drug Arg1:T242 Arg2:T160
+R4	Method_Drug Arg1:T242 Arg2:T161
+R5	Method_Drug Arg1:T242 Arg2:T9
+R6	Drug_Disease Arg1:T160 Arg2:T162
+R7	Drug_Disease Arg1:T160 Arg2:T65
+R8	Drug_Disease Arg1:T161 Arg2:T162
+R9	Drug_Disease Arg1:T161 Arg2:T65
+R10	Drug_Disease Arg1:T9 Arg2:T162
+R11	Drug_Disease Arg1:T9 Arg2:T65
+R12	Anatomy_Disease Arg1:T243 Arg2:T70
+R13	Anatomy_Disease Arg1:T244 Arg2:T75
+R14	Anatomy_Disease Arg1:T245 Arg2:T79
+R15	Test_Disease Arg1:T173 Arg2:T81
+R16	Anatomy_Disease Arg1:T246 Arg2:T81
+R17	Anatomy_Disease Arg1:T247 Arg2:T83
+R18	Anatomy_Disease Arg1:T248 Arg2:T83
+R19	Anatomy_Disease Arg1:T249 Arg2:T83
+R20	Anatomy_Disease Arg1:T250 Arg2:T87
+R21	Treatment_Disease Arg1:T310 Arg2:T179
+R22	Treatment_Disease Arg1:T310 Arg2:T88
+R23	Test_Disease Arg1:T180 Arg2:T90
+R24	Test_Disease Arg1:T347 Arg2:T92
+R25	Test_Disease Arg1:T348 Arg2:T93
+R26	Test_Disease Arg1:T348 Arg2:T182
+R27	Test_Disease Arg1:T348 Arg2:T181
+R28	Test_Disease Arg1:T350 Arg2:T95
+R29	Test_Disease Arg1:T351 Arg2:T96
+R30	Anatomy_Disease Arg1:T252 Arg2:T97
+R31	Test_Disease Arg1:T251 Arg2:T97
+R32	Anatomy_Disease Arg1:T253 Arg2:T97
+R33	Test_Disease Arg1:T54 Arg2:T98
+R34	Test_Disease Arg1:T52 Arg2:T98
+R35	Test_Disease Arg1:T4 Arg2:T98
+R36	Test_Disease Arg1:T53 Arg2:T98
+R37	Test_Disease Arg1:T6 Arg2:T98
+R38	Test_Disease Arg1:T148 Arg2:T98
+R39	Test_Disease Arg1:T183 Arg2:T98
+R40	Test_Disease Arg1:T184 Arg2:T98
+R41	Test_Disease Arg1:T185 Arg2:T98
+R42	Test_Disease Arg1:T186 Arg2:T98
+R43	Amount_Drug Arg1:T187 Arg2:T188
+R44	Test_Disease Arg1:T314 Arg2:T101
+R45	Drug_Disease Arg1:T188 Arg2:T101
+R46	Drug_Disease Arg1:T11 Arg2:T101
+R47	Test_Disease Arg1:T5 Arg2:T102
+R48	Test_Disease Arg1:T353 Arg2:T103
+R49	Test_Disease Arg1:T193 Arg2:T104
+R50	Anatomy_Disease Arg1:T192 Arg2:T104
+R51	Anatomy_Disease Arg1:T191 Arg2:T104
+R52	Anatomy_Disease Arg1:T190 Arg2:T104
+R53	Anatomy_Disease Arg1:T189 Arg2:T104
+R54	Test_Disease Arg1:T354 Arg2:T104
+R55	Symptom_Disease Arg1:T355 Arg2:T356
+R56	Test_Disease Arg1:T194 Arg2:T104
+R57	Test_Disease Arg1:T7 Arg2:T104
+R58	Test_Disease Arg1:T324 Arg2:T104
+R59	Test_Disease Arg1:T195 Arg2:T104
+R60	Test_Disease Arg1:T196 Arg2:T104
+R61	Test_Disease Arg1:T198 Arg2:T106
+R62	Anatomy_Disease Arg1:T199 Arg2:T106
+R63	Anatomy_Disease Arg1:T256 Arg2:T106
+R64	Anatomy_Disease Arg1:T257 Arg2:T106
+R65	Anatomy_Disease Arg1:T258 Arg2:T107
+R66	Anatomy_Disease Arg1:T259 Arg2:T108
+R67	Anatomy_Disease Arg1:T260 Arg2:T108
+R68	Anatomy_Disease Arg1:T322 Arg2:T108
+R69	Anatomy_Disease Arg1:T261 Arg2:T109
+R70	Anatomy_Disease Arg1:T262 Arg2:T109
+R71	Anatomy_Disease Arg1:T263 Arg2:T109
+R72	Anatomy_Disease Arg1:T264 Arg2:T109
+R73	Anatomy_Disease Arg1:T265 Arg2:T109
+R74	Anatomy_Disease Arg1:T266 Arg2:T110
+R75	Anatomy_Disease Arg1:T368 Arg2:T111
+R76	Anatomy_Disease Arg1:T267 Arg2:T111
+R77	Method_Drug Arg1:T201 Arg2:T202
+R78	Method_Drug Arg1:T201 Arg2:T203
+R79	Drug_Disease Arg1:T202 Arg2:T112
+R80	Drug_Disease Arg1:T203 Arg2:T112
+R81	Method_Drug Arg1:T205 Arg2:T207
+R82	Amount_Drug Arg1:T206 Arg2:T207
+R83	Drug_Disease Arg1:T207 Arg2:T204
+R84	Drug_Disease Arg1:T207 Arg2:T113
+R85	Drug_Disease Arg1:T12 Arg2:T114
+R86	Drug_Disease Arg1:T13 Arg2:T115
+R87	Anatomy_Disease Arg1:T208 Arg2:T115
+R88	Anatomy_Disease Arg1:T209 Arg2:T115
+R89	Anatomy_Disease Arg1:T268 Arg2:T115
+R90	Drug_Disease Arg1:T1 Arg2:T115
+R91	Drug_Disease Arg1:T14 Arg2:T210
+R92	Drug_Disease Arg1:T15 Arg2:T116
+R93	Drug_Disease Arg1:T2 Arg2:T117
+R94	Drug_Disease Arg1:T16 Arg2:T118
+R95	Drug_Disease Arg1:T17 Arg2:T119
+R96	Drug_Disease Arg1:T18 Arg2:T120
+R97	Drug_Disease Arg1:T19 Arg2:T121
+R98	Drug_Disease Arg1:T211 Arg2:T123
+R99	Drug_Disease Arg1:T20 Arg2:T123
+R100	Drug_Disease Arg1:T21 Arg2:T124
+R101	Drug_Disease Arg1:T212 Arg2:T124
+R102	Drug_Disease Arg1:T213 Arg2:T124
+R103	Drug_Disease Arg1:T214 Arg2:T125
+R104	Drug_Disease Arg1:T215 Arg2:T125
+R105	Drug_Disease Arg1:T22 Arg2:T126
+R106	Drug_Disease Arg1:T216 Arg2:T126
+R107	Drug_Disease Arg1:T217 Arg2:T126
+R108	Drug_Disease Arg1:T23 Arg2:T153
+R109	Drug_Disease Arg1:T23 Arg2:T218
+R110	Drug_Disease Arg1:T24 Arg2:T334
+R111	Drug_Disease Arg1:T24 Arg2:T219
+R112	Drug_Disease Arg1:T25 Arg2:T220
+R113	Drug_Disease Arg1:T25 Arg2:T154
+R114	Drug_Disease Arg1:T26 Arg2:T155
+R115	Drug_Disease Arg1:T27 Arg2:T127
+R116	Drug_Disease Arg1:T28 Arg2:T130
+R117	Drug_Disease Arg1:T29 Arg2:T131
+R118	Drug_Disease Arg1:T30 Arg2:T132
+R119	Drug_Disease Arg1:T31 Arg2:T221
+R120	Drug_Disease Arg1:T31 Arg2:T133
+R121	Drug_Disease Arg1:T3 Arg2:T134
+R122	Drug_Disease Arg1:T32 Arg2:T135
+R123	Drug_Disease Arg1:T33 Arg2:T136
+R124	Drug_Disease Arg1:T36 Arg2:T315
+R125	Drug_Disease Arg1:T36 Arg2:T222
+R126	Drug_Disease Arg1:T35 Arg2:T222
+R127	Drug_Disease Arg1:T35 Arg2:T315
+R128	Anatomy_Disease Arg1:T271 Arg2:T222
+R129	Anatomy_Disease Arg1:T271 Arg2:T315
+R130	Anatomy_Disease Arg1:T357 Arg2:T222
+R131	Anatomy_Disease Arg1:T357 Arg2:T315
+R132	Anatomy_Disease Arg1:T270 Arg2:T315
+R133	Anatomy_Disease Arg1:T270 Arg2:T222
+R134	Drug_Disease Arg1:T34 Arg2:T315
+R135	Drug_Disease Arg1:T34 Arg2:T222
+R136	Anatomy_Disease Arg1:T272 Arg2:T273
+R137	Drug_Disease Arg1:T37 Arg2:T273
+R138	Anatomy_Disease Arg1:T359 Arg2:T138
+R139	Anatomy_Disease Arg1:T225 Arg2:T138
+R140	Anatomy_Disease Arg1:T224 Arg2:T138
+R141	Anatomy_Disease Arg1:T274 Arg2:T138
+R142	Anatomy_Disease Arg1:T223 Arg2:T138
+R143	Drug_Disease Arg1:T39 Arg2:T138
+R144	Drug_Disease Arg1:T40 Arg2:T138
+R145	Drug_Disease Arg1:T43 Arg2:T331
+R146	Anatomy_Disease Arg1:T286 Arg2:T331
+R147	Drug_Disease Arg1:T44 Arg2:T331
+R148	Anatomy_Disease Arg1:T287 Arg2:T331
+R149	Drug_Disease Arg1:T45 Arg2:T140
+R150	Anatomy_Disease Arg1:T288 Arg2:T291
+R151	Anatomy_Disease Arg1:T289 Arg2:T290
+R152	Drug_Disease Arg1:T46 Arg2:T363
+R153	Anatomy_Disease Arg1:T292 Arg2:T363
+R154	Anatomy_Disease Arg1:T293 Arg2:T363
+R155	Anatomy_Disease Arg1:T294 Arg2:T363
+R156	Anatomy_Disease Arg1:T295 Arg2:T231
+R157	Anatomy_Disease Arg1:T232 Arg2:T231
+R158	Anatomy_Disease Arg1:T296 Arg2:T231
+R159	Anatomy_Disease Arg1:T297 Arg2:T231
+R160	Drug_Disease Arg1:T47 Arg2:T231
+R161	Anatomy_Disease Arg1:T301 Arg2:T235
+R162	Drug_Disease Arg1:T49 Arg2:T302
+R163	Anatomy_Disease Arg1:T236 Arg2:T302
+R164	Anatomy_Disease Arg1:T366 Arg2:T302
+R165	Drug_Disease Arg1:T316 Arg2:T143
+R166	Drug_Disease Arg1:T50 Arg2:T144
+R167	Drug_Disease Arg1:T237 Arg2:T144
+R168	Drug_Disease Arg1:T317 Arg2:T146
+R169	Drug_Disease Arg1:T318 Arg2:T146
+R170	Drug_Disease Arg1:T319 Arg2:T146
+R171	Drug_Disease Arg1:T51 Arg2:T146
+R172	Treatment_Disease Arg1:T305 Arg2:T150
+R173	Drug_Disease Arg1:T10 Arg2:T66
+R174	Test_Disease Arg1:T306 Arg2:T66
+R175	Test_Disease Arg1:T342 Arg2:T66
+R176	Drug_Disease Arg1:T343 Arg2:T66
+R177	Test_Disease Arg1:T338 Arg2:T57
+R178	Drug_Disease Arg1:T339 Arg2:T57
+R179	Test_Disease Arg1:T336 Arg2:T56
+R180	Test_Disease Arg1:T337 Arg2:T57
+R181	Treatment_Disease Arg1:T310 Arg2:T89
+R182	Test_Disease Arg1:T346 Arg2:T91
+R183	Test_Disease Arg1:T349 Arg2:T94
+R184	Test_Disease Arg1:T323 Arg2:T99
+R185	Test_Disease Arg1:T352 Arg2:T99
+R186	Test_Disease Arg1:T55 Arg2:T100
+R187	Test_Disease Arg1:T194 Arg2:T254
+R188	Test_Disease Arg1:T7 Arg2:T254
+R189	Test_Disease Arg1:T324 Arg2:T254
+R190	Test_Disease Arg1:T195 Arg2:T255
+R191	Test_Disease Arg1:T196 Arg2:T255
+R192	Anatomy_Disease Arg1:T267 Arg2:T330
+R193	Drug_Disease Arg1:T211 Arg2:T122
+R194	Drug_Disease Arg1:T27 Arg2:T128
+R195	Drug_Disease Arg1:T38 Arg2:T137
+R196	Drug_Disease Arg1:T46 Arg2:T231
+R197	Drug_Disease Arg1:T48 Arg2:T332
+R198	Anatomy_Disease Arg1:T300 Arg2:T332
+R199	Anatomy_Disease Arg1:T234 Arg2:T332
+R200	Drug_Disease Arg1:T48 Arg2:T333
+R201	Anatomy_Disease Arg1:T300 Arg2:T333
+R202	Anatomy_Disease Arg1:T234 Arg2:T333
+R203	Test_Disease Arg1:T365 Arg2:T235
+R204	Drug_Disease Arg1:T316 Arg2:T304
+R205	Drug_Disease Arg1:T50 Arg2:T145

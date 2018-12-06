@@ -1,0 +1,591 @@
+T1	Disease 40 46	2 型糖尿病
+T2	Disease 124 130	2 型糖尿病
+T3	Disease 2414 2420	2 型糖尿病
+T4	Disease 5157 5163	2 型糖尿病
+T5	Disease 8936 8941	糖尿病肾病
+T6	Test 4333 4338	HBA1C
+T7	Test 5269 5274	HBA1C
+T8	Test 6913 6918	HBA1C
+T9	Test 7042 7047	HBA1C
+T10	Reason 8927 8932	HBA1C
+T11	Test 9023 9028	HBA1C
+T12	Reason 346 351	LDL-C
+T13	Test 1544 1549	LDL-C
+T14	Test 4665 4670	LDL-C
+T15	Test 5055 5060	LDL-C
+T16	Test 5258 5263	LDL-C
+T17	Test 5724 5729	LDL-C
+T18	Test 6815 6820	LDL-C
+T19	Test 6857 6862	LDL-C
+T20	Reason 8151 8156	LDL-C
+T21	Disease 131 135	T2DM
+T22	Disease 233 237	T2DM
+T23	Disease 360 364	T2DM
+T24	Disease 380 384	T2DM
+T25	Disease 438 442	T2DM
+T26	Disease 466 470	T2DM
+T27	Disease 1070 1074	T2DM
+T28	Disease 1223 1227	T2DM
+T29	Disease 1611 1615	T2DM
+T30	Disease 1760 1764	T2DM
+T31	Disease 2421 2425	T2DM
+T32	Disease 2507 2511	T2DM
+T33	Disease 2543 2547	T2DM
+T34	Disease 2642 2646	T2DM
+T35	Disease 3994 3998	T2DM
+T36	Disease 5791 5795	T2DM
+T37	Disease 5905 5909	T2DM
+T38	Disease 5988 5992	T2DM
+T39	Disease 6028 6032	T2DM
+T40	Disease 6048 6052	T2DM
+T41	Disease 6230 6234	T2DM
+T42	Disease 6456 6460	T2DM
+T43	Disease 6785 6789	T2DM
+T44	Disease 7281 7285	T2DM
+T45	Disease 7331 7335	T2DM
+T46	Disease 7396 7400	T2DM
+T47	Disease 7554 7558	T2DM
+T48	Disease 8162 8166	T2DM
+T49	Disease 9054 9058	T2DM
+T50	Disease 9074 9078	T2DM
+T51	Disease 9197 9201	T2DM
+T52	Test 4650 4654	尿白蛋白
+T53	Test 3718 3721	血肌酐
+T54	Test 4353 4356	血肌酐
+T55	Reason 336 345	低密度脂蛋白胆固醇
+T56	Reason 414 423	低密度脂蛋白胆固醇
+T57	Test 5061 5070	低密度脂蛋白胆固醇
+T58	Test 5730 5739	低密度脂蛋白胆固醇
+T59	Reason 317 321	体重指数
+T60	Reason 408 412	体重指数
+T61	Test 4279 4283	体重指数
+T62	Test 5239 5243	体重指数
+T63	Test 8615 8619	体重指数
+T64	Test 2953 2956	GFR
+T65	Reason 328 331	收缩压
+T66	Test 4304 4307	收缩压
+T67	Test 5250 5253	收缩压
+T68	Reason 8142 8143;8144 8146	收 缩压
+T69	Test 4315 4318	舒张压
+T70	Test 2396 2399	肾功能
+T71	Test 4699 4701	尿酸
+T72	Test 5255 5257	尿酸
+T73	Test 4682 4686	甘油三酯
+T74	Test 5264 5268	甘油三酯
+T75	Test 1438 1441	BMI
+T76	Test 1690 1693	BMI
+T77	Test 3062 3065	BMI
+T78	Test 3081 3084	BMI
+T79	Disease 150 155	慢性肾脏病
+T80	Disease 180 183	CKD
+T81	Disease 243 246	CKD
+T82	Symptom 277 280	蛋白尿
+T83	Disease 430 433	CKD
+T84	Disease 368 371	CKD
+T85	Disease 390 393	CKD
+T86	Reason 314 316	年龄
+T87	Reason 322 327	糖尿病病程
+T88	Reason 353 354;355 356	吸 烟
+T89	Reason 399 401	年龄
+T90	Reason 402 407	糖尿病病程
+T91	Disease 479 482	CKD
+T92	Test 494 497	尿蛋白
+T93	Test 498 502	eGFR
+T94	Test 509 514	肾小管功能
+T95	Test 515 520;521 523	肾脏形态学 检查
+T96	Disease 2190 2193	CKD
+T97	Disease 2219 2224	终末期肾病
+T98	Disease 2258 2263	终末期肾病
+T99	Disease 2327 2330	CKD
+T100	Disease 2321 2324	糖尿病
+T101	Disease 2360 2363	糖尿病
+T102	Disease 2389 2392	糖尿病
+T103	Disease 2429 2432	CKD
+T104	Disease 2448 2451	CKD
+T105	Test 2458 2464	肾小球滤过率
+T106	Test 2465 2468	尿蛋白
+T107	Disease 2517 2520	CKD
+T108	Disease 2551 2554	CKD
+T109	Disease 2561 2564	CKD
+T110	Test 2678 2681	尿蛋白
+T111	Test 2682 2687	肾小管指标
+T112	Test 2706 2710	eGFR
+T113	Disease 2723 2725	感染
+T114	Disease 2727 2729	酮症
+T115	Disease 2730 2741	糖尿病非酮症高渗性昏迷
+T116	Disease 2742 2749	急性心脑血管病
+T117	Drug 2768 2779	血管紧张素转换酶抑制剂
+T118	Drug 2794 2797	利尿剂
+T119	Disease 2803 2807	肾脏肿瘤
+T120	Operation 2824 2829	单侧肾切除
+T121	Disease 2909 2914	慢性肾脏病
+T122	Test 2946 2952	肾小球滤过率
+T123	Disease 3016 3018	超重
+T124	Disease 3019 3021	肥胖
+T125	Test_Value 3066 3077	<28 kg / m2
+T126	Test_Value 3084 3095	≥28 kg / m2
+T127	Test 3109 3125	尿 N-乙酰-D-氨基葡萄糖苷酶
+T128	Test 3128 3131	NAG
+T129	Test 3135 3142	β2-微球蛋白
+T130	Disease 3161 3168	肾小管功能损伤
+T131	Test 3239 3243	eGFR
+T132	Test 3249 3253	eGFR
+T133	Disease 3876 3879	CKD
+T134	Disease 4004 4007	CKD
+T135	Symptom 4038 4043	单纯蛋白尿
+T136	Disease 5799 5802	CKD
+T137	Symptom 5827 5830	蛋白尿
+T138	Symptom 5875 5880	肾小管受损
+T139	Symptom 5891 5898;5899 5900	肾脏 B 超异 常
+T140	Disease 5913 5916	CKD
+T141	Disease 6036 6039	CKD
+T142	Disease 6056 6059	CKD
+T143	Disease 5996 5999	CKD
+T144	Disease 6093 6096	CKD
+T145	Disease 6238 6241	CKD
+T146	Disease 6291 6294	CKD
+T147	Disease 6334 6337	CKD
+T148	Disease 6370 6373	CKD
+T149	Disease 6398 6401	CKD
+T150	Disease 6438 6441	CKD
+T151	Disease 6463 6466	高血压
+T152	Disease 6468 6471	CKD
+T153	Disease 6571 6574	CKD
+T154	Disease 6537 6540	高血压
+T155	Disease 6609 6612	CKD
+T156	Disease 6617 6620	高血压
+T157	Disease 6718 6721	CKD
+T158	Disease 6673 6676	CKD
+T159	Disease 6793 6796	CKD
+T160	Disease 6837 6840	CKD
+T161	Test_Value 6820 6834	≥2. 6 mmol / L
+T162	Disease 7052 7055	CKD
+T163	Disease 7101 7104	CKD
+T164	Disease 7084 7087	糖尿病
+T165	Test 7203 7207	eGFR
+T166	Disease 7134 7137	CKD
+T167	Disease 7126 7129	糖尿病
+T168	Test 7198 7201	蛋白尿
+T169	Test 7225 7228	NAG
+T170	Test 7231 7236	β2-MG
+T171	Disease 7265 7268	CKD
+T172	Disease 7289 7292	CKD
+T173	Disease 7339 7342	CKD
+T174	Disease 7367 7370	糖尿病
+T175	Disease 7404 7407	CKD
+T176	Test 7422 7426	eGFR
+T177	Disease 7461 7464	糖尿病
+T178	Disease 7472 7475	糖尿病
+T179	Test 7490 7496	肾小球滤过率
+T180	Test 7607 7610	蛋白尿
+T181	Disease 7562 7565	CKD
+T182	Test 7624 7629	肾小管功能
+T183	Disease 7664 7667	CKD
+T184	Test 7678 7680;7681 7686	肾小 管指标检测
+T185	Disease 7720 7723	CKD
+T186	Test 7790 7793	NAG
+T187	Test 7838 7843	β2-MG
+T188	Test 7848 7851	NAG
+T189	Test 7902 7905	NAG
+T190	Test 7908 7913	β2-MG
+T191	Disease 7933 7936	CKD
+T192	Disease 7960 7963	CKD
+T193	Reason 8129 8131	年龄
+T194	Reason 8136 8141	糖尿病病程
+T195	Reason 8147 8150	血尿酸
+T196	Disease 8170 8173	CKD
+T197	Disease 8191 8194	CKD
+T198	Symptom 8216 8219	蛋白尿
+T199	Disease 8246 8249	CKD
+T200	Disease 8273 8276	CKD
+T201	Reason 8306 8308	血糖
+T202	Reason 8309 8311	血压
+T203	Reason 8313 8315	血脂
+T204	Disease 8317 8320	CKD
+T205	Disease 8358 8361	CKD
+T206	Disease 8382 8386;8387 8388	糖尿病肾 病
+T207	Disease 8389 8392	糖尿病
+T208	Disease 8426 8429	CKD
+T209	Disease 8478 8481	CKD
+T210	Disease 8502 8505	CKD
+T211	Reason 8560 8562	肥胖
+T212	Reason 8564 8572	LDL-C 升高
+T213	Disease 8595 8598	CKD
+T214	Disease 8607 8610	CKD
+T215	Disease 8633 8636	CKD
+T216	Disease 8643 8645	超重
+T217	Disease 8646 8648	肥胖
+T218	Disease 8676 8679	高血压
+T219	Disease 8709 8712	CKD
+T220	Disease 8723 8726	CKD
+T221	Disease 8774 8777	高血压
+T222	Symptom 8779 8782	蛋白尿
+T223	Disease 8816 8819	高血压
+T224	Symptom 8912 8913;8914 8920	尿 蛋白排泄增加
+T225	Disease 9003 9006	CKD
+T226	Level 9007 9009	晚期
+T227	Disease 9048 9051	CKD
+T228	Disease 9086 9089	CKD
+T229	Test 9115 9118	尿蛋白
+T230	Test 9120 9124	eGFR
+T231	Test 9131 9136	肾小管功能
+T232	Test 9137 9141;9142 9145	肾脏形态 学检查
+T233	Test 9167 9170	蛋白尿
+T234	Test 9171 9175	eGFR
+T235	Test 9176 9181	肾小管指标
+T236	Test 9182 9186;9187 9190	肾脏形态 学检查
+T237	Disease 9205 9208	CKD
+T238	Test_Value 3473 3479	<30 mg
+T239	Test_Value 3504 3515	30 ~ 299 mg
+T240	Test_Value 3540 3547	≥300 mg
+T241	Test 3675 3680	β2-MG
+T242	Test 3681 3686	β2-MG
+T243	Test_Value 3694 3705	0. 3 mg / L
+T244	Disease 8575 8580	心血管疾病
+T245	Test 3056 3059;3060 3061	体重指 数
+T246	Test 1967 1971	eGFR
+T247	Test 4713 4717	eGFR
+T248	Test 5072 5076	eGFR
+T249	Disease 205 208	CKD
+T250	Disease 1135 1138	CKD
+T251	Disease 1189 1192	CKD
+T252	Disease 1263 1266	CKD
+T253	Disease 1643 1646	CKD
+T254	Disease 1706 1709	CKD
+T255	Disease 1891 1894	CKD
+T256	Disease 3948 3951	CKD
+T257	Disease 3956 3959	CKD
+T258	Disease 3984 3987	CKD
+T259	Disease 4218 4221	CKD
+T260	Disease 4227 4230	CKD
+T261	Disease 4370 4373	CKD
+T262	Disease 4497 4500	CKD
+T263	Disease 4748 4751	CKD
+T264	Disease 4883 4886	CKD
+T265	Disease 5024 5027	CKD
+T266	Disease 5126 5129	CKD
+T267	Disease 6642 6645	CKD
+T268	Disease 6755 6758	CKD
+T269	Disease 6985 6988	CKD
+T270	Test 3267 3270	血肌酐
+T271	Test 2381 2384	肾功能
+T272	Test 8978 8980	血糖
+T273	Test 8995 8997	血糖
+T274	Test 9039 9041	血糖
+T275	Test 3404 3410	尿微量白蛋白
+T276	Test 5080 5086	肾小球滤过率
+T277	Disease 4343 4348	视网膜病变
+T278	Test 5948 5951	BMI
+T279	Disease 2213 2218	心血管事件
+T280	Disease 2758 2763	泌尿系感染
+T281	Disease 50 55	慢性肾脏病
+T282	Reason 332 335	血尿酸
+T283	Disease 2185 2189	慢性肾病
+T284	Disease 2317 2320	糖尿病
+T285	Anatomy 2475 2478	肾小管
+T286	Disease 2626 2629	代谢病
+T287	Test_Value 2957 2959	降低
+T288	Disease 3036 3038	超重
+T289	Disease 3039 3042	肥胖症
+T290	Disease 3050 3052	超重
+T291	Test_Value 3053 3056	24≤
+T292	Disease 3078 3080	肥胖
+T293	Disease 3098 3105	肾小管功能损伤
+T294	Test_Value 3155 3157	异常
+T295	Symptom 3517 3523	微量白蛋白尿
+T296	Symptom 3549 3555	大量白蛋白尿
+T297	Test 3563 3572	24 h 尿总蛋白
+T298	Test 3618 3623	尿 NAG
+T299	Test 3624 3627	NAG
+T300	Test_Value 3635 3644	12 mg / L
+T301	Symptom 4100 4106;4107 4110	单纯肾脏 B 超异常
+T302	Symptom 4113 4117	肾脏增大
+T303	Symptom 4118 4122	肾脏缩小
+T304	Symptom 4123 4129	双肾皮质变薄
+T305	Symptom 4130 4133	多囊肾
+T306	Symptom 4150 4155	单个肾囊肿
+T307	Symptom 5833 5839	微量白蛋白尿
+T308	Reason 6064 6066	年龄
+T309	Reason 5945 5947	年龄
+T310	Reason 5952 5957	糖尿病病程
+T311	Reason 5984 5986	吸烟
+T312	Disease 6500 6503	高血压
+T313	Disease 6665 6667	超重
+T314	Disease 6669 6671	肥胖
+T315	Disease 6712 6714	肥胖
+T316	Disease 6751 6753	超重
+T317	Disease 6734 6736	超重
+T318	Test_Value 6923 6926	≤7%
+T319	Test_Value 6928 6941	7. 1% ~ 8. 0%
+T320	Test_Value 6944 6957	8. 1% ~ 9. 0%
+T321	Test_Value 6959 6973	9. 1% ~ 10. 0%
+T322	Test_Value 6976 6981	> 10%
+T323	Disease 7159 7162	糖尿病
+T324	Anatomy 7209 7212	肾小球
+T325	Anatomy 7238 7241	肾小管
+T326	Symptom 7309 7312	蛋白尿
+T327	Symptom 7358 7361	蛋白尿
+T328	Test 7372 7375	尿蛋白
+T329	Test_Value 7426 7433;7434 7449	<60 ml· min-1·1. 73 m-2
+T330	Disease 7502 7505	糖尿病
+T331	Symptom 7574 7581	肾小管功能异常
+T332	Symptom 7594 7601	肾脏形态学异常
+T333	Test 7630 7631;7632 7636	肾 脏影像学
+T334	Test 7645 7649	肾脏功能
+T335	Symptom 7700 7707	肾小管功能受损
+T336	Symptom 7733 7739;7740 7743	近端肾小管功 能受损
+T337	Symptom 7776 7781	肾小管受损
+T338	Symptom 7800 7805	肾小管受损
+T339	Symptom 7857 7862	肾小管受损
+T340	Anatomy 7920 7923	肾小管
+T341	Test 7947 7954	肾脏形态学检测
+T342	Test 7972 7975;7976 7980	肾脏影 像学检查
+T343	Test 7988 7995	肾脏影像学检查
+T344	Disease 8018 8021	糖尿病
+T345	Anatomy 8033 8035	肾脏
+T346	Anatomy 8043 8045	肾脏
+T347	Disease 8097 8100	糖尿病
+T348	Reason 8158 8160	吸烟
+T349	Reason 8254 8256	年龄
+T350	Reason 8366 8371	糖尿病病程
+T351	Anatomy 8340 8342	肾脏
+T352	Duration 8395 8403	5 ~ 10 年
+T353	Duration 8418 8419;8420 8425	小 于 5 年
+T354	Test 8456 8457;8458 8462	肾 脏影像学
+T355	Test 8463 8468	肾小管指标
+T356	Anatomy 8552 8554	肾脏
+T357	Disease 8530 8533	糖尿病
+T358	Reason 8497 8499	病程
+T359	Anatomy 8680 8682	肾脏
+T360	Test 8732 8737	高血压病程
+T361	Test 8821 8823	血压
+T362	Reason 8860 8862	吸烟
+T363	Anatomy 8869 8871	肾脏
+T364	Reason 8884 8885;8886 8887	吸 烟
+T365	Reason 8890 8894	氧化应激
+T366	Anatomy 8896 8900	血管内皮
+T367	Reason 8905 8909	肾脏缺血
+T368	Disease 9227 9230	糖尿病
+T369	Anatomy 9232 9234	肾脏
+T370	Anatomy 9153 9155	肾脏
+T371	Disease 9263 9266	糖尿病
+T372	Anatomy 9269 9271	肾脏
+T373	Reason 5977 5982	LDL-C
+T374	Test 6803 6808	LDL-C
+T375	Reason 5966 5972;5973 5976	低密度脂蛋白 胆固醇
+T376	Test 6651 6655	体重指数
+T377	Reason 5958 5961	收缩压
+T378	Symptom 4134 4136;4137 4145	肾结 石引起肾功能异常
+T379	Test 7482 7485	肾功能
+T380	Test 7611 7614	肾功能
+T381	Reason 5962 5965	血尿酸
+T382	Disease 2241 2244	糖尿病
+T383	Test 2688 2694	肾脏 B 超
+T384	Test 2696 2705	估算的肾小球滤过率
+T385	Drug 2780 2783;2784 2792	血管紧 张素2受体拮抗剂
+T386	Test 3144 3149	β2-MG
+T387	Test 3321 3327	肾脏 B 超
+T388	Test 3386 3394	24 h 尿蛋白
+T389	Reason 4069 4076	单纯肾小管受损
+T390	Disease 4156 4159	肾结石
+T391	Reason 6246 6251	糖尿病病程
+T392	Disease 6450 6453	高血压
+T393	Test_Value 6862 6876	<2. 6 mmol / L
+T394	Reason 7093 7096	糖尿病
+T395	Test 7412 7418	肾小球滤过率
+T396	Test_Value 7418 7420	降低
+T397	Symptom 7518 7521	蛋白尿
+T398	Test 7522 7526	eGFR
+T399	Disease 8057 8063;8064 8067	早期糖尿病肾 脏病变
+T400	Test 8220 8226	肾小球滤过率
+T401	Test_Value 8226 8228	下降
+T402	Reason 8301 8303	年龄
+T403	Disease 8627 8629	肥胖
+T404	Disease 8704 8707	高血压
+T405	Disease 9014 9015;9016 9017	贫 血
+T406	Test 3462 3473	24 h 尿白蛋白定量
+T407	Test 3492 3496;3497 3503	24 h 尿白蛋白定量
+T408	Test 3528 3537;3538 3540	24 h 尿白蛋白 定量
+T409	Test 3425 3436	24 h 尿白蛋白定量
+T410	Test 4162 4164;4165 4166	肾功 能
+R1	Symptom_Disease Arg1:T82 Arg2:T81
+R2	Symptom_Disease Arg1:T82 Arg2:T22
+R3	Test_Disease Arg1:T92 Arg2:T91
+R4	Test_Disease Arg1:T93 Arg2:T91
+R5	Test_Disease Arg1:T94 Arg2:T91
+R6	Test_Disease Arg1:T95 Arg2:T91
+R7	Test_Disease Arg1:T271 Arg2:T101
+R8	Test_Disease Arg1:T70 Arg2:T102
+R9	Test_Disease Arg1:T105 Arg2:T104
+R10	Test_Disease Arg1:T106 Arg2:T104
+R11	Anatomy_Disease Arg1:T285 Arg2:T104
+R12	Test_Disease Arg1:T122 Arg2:T121
+R13	Test_Disease Arg1:T64 Arg2:T121
+R14	Test_Disease Arg1:T245 Arg2:T290
+R15	Test_Disease Arg1:T78 Arg2:T292
+R16	Test_Disease Arg1:T127 Arg2:T293
+R17	Test_Disease Arg1:T128 Arg2:T293
+R18	Test_Disease Arg1:T129 Arg2:T293
+R19	Test_Disease Arg1:T386 Arg2:T293
+R20	Test_Disease Arg1:T127 Arg2:T130
+R21	Test_Disease Arg1:T128 Arg2:T130
+R22	Test_Disease Arg1:T129 Arg2:T130
+R23	Test_Disease Arg1:T386 Arg2:T130
+R24	Symptom_Disease Arg1:T135 Arg2:T134
+R25	Symptom_Disease Arg1:T301 Arg2:T134
+R26	Symptom_Disease Arg1:T302 Arg2:T134
+R27	Symptom_Disease Arg1:T303 Arg2:T134
+R28	Symptom_Disease Arg1:T304 Arg2:T134
+R29	Symptom_Disease Arg1:T305 Arg2:T134
+R30	Symptom_Disease Arg1:T378 Arg2:T134
+R31	Symptom_Disease Arg1:T306 Arg2:T134
+R32	Test_Disease Arg1:T410 Arg2:T390
+R33	Symptom_Disease Arg1:T137 Arg2:T136
+R34	Symptom_Disease Arg1:T307 Arg2:T136
+R35	Symptom_Disease Arg1:T138 Arg2:T136
+R36	Symptom_Disease Arg1:T139 Arg2:T136
+R37	Test_Disease Arg1:T278 Arg2:T140
+R38	Test_Disease Arg1:T278 Arg2:T37
+R39	Test_Disease Arg1:T278 Arg2:T38
+R40	Test_Disease Arg1:T278 Arg2:T143
+R41	Test_Disease Arg1:T376 Arg2:T267
+R42	Test_Disease Arg1:T376 Arg2:T313
+R43	Test_Disease Arg1:T376 Arg2:T314
+R44	Test_Disease Arg1:T376 Arg2:T158
+R45	Test_Disease Arg1:T376 Arg2:T315
+R46	Test_Disease Arg1:T376 Arg2:T157
+R47	Test_Disease Arg1:T376 Arg2:T317
+R48	Test_Disease Arg1:T376 Arg2:T316
+R49	Test_Disease Arg1:T376 Arg2:T268
+R50	Test_Disease Arg1:T374 Arg2:T43
+R51	Test_Disease Arg1:T374 Arg2:T159
+R52	Test_Disease Arg1:T18 Arg2:T160
+R53	Test_Disease Arg1:T19 Arg2:T160
+R54	Test_Disease Arg1:T8 Arg2:T269
+R55	Test_Disease Arg1:T9 Arg2:T162
+R56	Test_Disease Arg1:T170 Arg2:T171
+R57	Anatomy_Disease Arg1:T325 Arg2:T171
+R58	Test_Disease Arg1:T169 Arg2:T171
+R59	Test_Disease Arg1:T165 Arg2:T171
+R60	Test_Disease Arg1:T168 Arg2:T171
+R61	Symptom_Disease Arg1:T326 Arg2:T172
+R62	Symptom_Disease Arg1:T326 Arg2:T44
+R63	Symptom_Disease Arg1:T327 Arg2:T173
+R64	Symptom_Disease Arg1:T327 Arg2:T45
+R65	Test_Disease Arg1:T328 Arg2:T174
+R66	Test_Disease Arg1:T395 Arg2:T175
+R67	Test_Disease Arg1:T176 Arg2:T175
+R68	Test_Disease Arg1:T395 Arg2:T46
+R69	Test_Disease Arg1:T176 Arg2:T46
+R70	Test_Disease Arg1:T379 Arg2:T178
+R71	Test_Disease Arg1:T179 Arg2:T178
+R72	Symptom_Disease Arg1:T397 Arg2:T47
+R73	Test_Disease Arg1:T398 Arg2:T47
+R74	Test_Disease Arg1:T398 Arg2:T181
+R75	Symptom_Disease Arg1:T397 Arg2:T181
+R76	Symptom_Disease Arg1:T331 Arg2:T47
+R78	Symptom_Disease Arg1:T332 Arg2:T181
+R80	Test_Disease Arg1:T184 Arg2:T183
+R81	Symptom_Disease Arg1:T335 Arg2:T183
+R82	Test_Disease Arg1:T180 Arg2:T181
+R83	Test_Disease Arg1:T380 Arg2:T181
+R84	Test_Disease Arg1:T182 Arg2:T181
+R85	Test_Disease Arg1:T333 Arg2:T181
+R86	Test_Disease Arg1:T334 Arg2:T181
+R87	Test_Disease Arg1:T334 Arg2:T47
+R88	Test_Disease Arg1:T333 Arg2:T47
+R89	Test_Disease Arg1:T182 Arg2:T47
+R90	Test_Disease Arg1:T380 Arg2:T47
+R91	Test_Disease Arg1:T180 Arg2:T47
+R92	Test_Disease Arg1:T341 Arg2:T191
+R93	Test_Disease Arg1:T342 Arg2:T192
+R94	Test_Disease Arg1:T343 Arg2:T192
+R95	Anatomy_Disease Arg1:T345 Arg2:T344
+R96	Anatomy_Disease Arg1:T346 Arg2:T344
+R97	Anatomy_Disease Arg1:T346 Arg2:T399
+R98	Anatomy_Disease Arg1:T345 Arg2:T399
+R99	Symptom_Disease Arg1:T198 Arg2:T197
+R100	Test_Disease Arg1:T400 Arg2:T197
+R101	Anatomy_Disease Arg1:T351 Arg2:T205
+R102	Test_Disease Arg1:T355 Arg2:T209
+R103	Test_Disease Arg1:T354 Arg2:T209
+R104	Anatomy_Disease Arg1:T356 Arg2:T357
+R105	Test_Disease Arg1:T63 Arg2:T214
+R106	Test_Disease Arg1:T360 Arg2:T220
+R107	Symptom_Disease Arg1:T222 Arg2:T221
+R108	Test_Disease Arg1:T361 Arg2:T223
+R109	Test_Disease Arg1:T11 Arg2:T405
+R110	Test_Disease Arg1:T274 Arg2:T405
+R111	Test_Disease Arg1:T11 Arg2:T225
+R112	Test_Disease Arg1:T274 Arg2:T225
+R113	Test_Disease Arg1:T230 Arg2:T228
+R114	Test_Disease Arg1:T229 Arg2:T228
+R115	Test_Disease Arg1:T231 Arg2:T228
+R116	Test_Disease Arg1:T232 Arg2:T228
+R117	Anatomy_Disease Arg1:T370 Arg2:T228
+R118	Test_Disease Arg1:T233 Arg2:T237
+R119	Anatomy_Disease Arg1:T372 Arg2:T371
+R120	Anatomy_Disease Arg1:T369 Arg2:T368
+R121	Test_Disease Arg1:T234 Arg2:T237
+R122	Test_Disease Arg1:T235 Arg2:T237
+R123	Test_Disease Arg1:T236 Arg2:T237
+R124	Test_Disease Arg1:T233 Arg2:T51
+R125	Test_Disease Arg1:T234 Arg2:T51
+R126	Test_Disease Arg1:T235 Arg2:T51
+R127	Test_Disease Arg1:T236 Arg2:T51
+R128	Symptom_Disease Arg1:T82 Arg2:T80
+R129	Symptom_Disease Arg1:T82 Arg2:T249
+R130	Symptom_Disease Arg1:T82 Arg2:T79
+R131	Test_Disease Arg1:T92 Arg2:T83
+R132	Test_Disease Arg1:T93 Arg2:T83
+R133	Test_Disease Arg1:T94 Arg2:T83
+R134	Test_Disease Arg1:T95 Arg2:T83
+R135	Test_Disease Arg1:T105 Arg2:T103
+R136	Test_Disease Arg1:T106 Arg2:T103
+R137	Anatomy_Disease Arg1:T285 Arg2:T103
+R138	Test_Disease Arg1:T77 Arg2:T290
+R139	Test_Disease Arg1:T245 Arg2:T288
+R140	Test_Disease Arg1:T77 Arg2:T289
+R141	Symptom_Disease Arg1:T135 Arg2:T258
+R142	Symptom_Disease Arg1:T301 Arg2:T390
+R143	Symptom_Disease Arg1:T378 Arg2:T390
+R144	Test_Disease Arg1:T18 Arg2:T43
+R145	Test_Disease Arg1:T18 Arg2:T159
+R146	Test_Disease Arg1:T19 Arg2:T43
+R147	Test_Disease Arg1:T19 Arg2:T159
+R148	Test_Disease Arg1:T168 Arg2:T166
+R149	Test_Disease Arg1:T168 Arg2:T163
+R150	Test_Disease Arg1:T169 Arg2:T163
+R151	Test_Disease Arg1:T169 Arg2:T166
+R152	Test_Disease Arg1:T170 Arg2:T166
+R153	Test_Disease Arg1:T170 Arg2:T163
+R154	Anatomy_Disease Arg1:T325 Arg2:T172
+R155	Symptom_Disease Arg1:T326 Arg2:T173
+R156	Test_Disease Arg1:T379 Arg2:T175
+R157	Test_Disease Arg1:T179 Arg2:T175
+R158	Symptom_Disease Arg1:T331 Arg2:T181
+R159	Test_Disease Arg1:T184 Arg2:T185
+R160	Symptom_Disease Arg1:T335 Arg2:T185
+R161	Symptom_Disease Arg1:T336 Arg2:T185
+R162	Symptom_Disease Arg1:T337 Arg2:T185
+R163	Test_Disease Arg1:T342 Arg2:T191
+R164	Test_Disease Arg1:T343 Arg2:T191
+R165	Test_Disease Arg1:T354 Arg2:T208
+R166	Test_Disease Arg1:T355 Arg2:T208
+R167	Test_Disease Arg1:T354 Arg2:T206
+R168	Test_Disease Arg1:T355 Arg2:T206
+R169	Test_Disease Arg1:T354 Arg2:T210
+R170	Test_Disease Arg1:T355 Arg2:T210
+R171	Test_Disease Arg1:T63 Arg2:T213
+R172	Anatomy_Disease Arg1:T359 Arg2:T218
+R173	Test_Disease Arg1:T360 Arg2:T404
+R174	Symptom_Disease Arg1:T224 Arg2:T5
+R175	Anatomy_Disease Arg1:T363 Arg2:T5
+R176	Anatomy_Disease Arg1:T366 Arg2:T5
+R177	Test_Disease Arg1:T274 Arg2:T49
+R178	Test_Disease Arg1:T229 Arg2:T227
+R179	Test_Disease Arg1:T230 Arg2:T227
+R180	Test_Disease Arg1:T231 Arg2:T227
+R181	Test_Disease Arg1:T232 Arg2:T227
+R182	Anatomy_Disease Arg1:T370 Arg2:T227
+R183	Anatomy_Disease Arg1:T369 Arg2:T237

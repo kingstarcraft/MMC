@@ -1,0 +1,251 @@
+T1	Disease 3430 3436	1 型糖尿病
+T2	Disease 1912 1915;1916 1919	2 型 糖尿病
+T3	Disease 3407 3413	2 型糖尿病
+T4	Test 3129 3133	空腹血糖
+T5	Anatomy 347 351	β 细胞
+T6	Anatomy 398 402	β 细胞
+T7	Anatomy 432 436	β 细胞
+T8	Anatomy 508 512	β 细胞
+T9	Anatomy 604 608	β 细胞
+T10	Anatomy 710 714	β 细胞
+T11	Anatomy 993 997	β 细胞
+T12	Anatomy 1194 1198	β 细胞
+T13	Anatomy 1416 1420	β 细胞
+T14	Anatomy 1923 1927	β 细胞
+T15	Anatomy 2181 2185	β 细胞
+T16	Anatomy 2356 2360	β 细胞
+T17	Anatomy 2485 2489	β 细胞
+T18	Anatomy 2497 2501	β 细胞
+T19	Anatomy 2611 2615	β 细胞
+T20	Anatomy 2667 2671	β 细胞
+T21	Anatomy 2693 2697	β 细胞
+T22	Test 2708 2712	β 细胞
+T23	Test 2718 2722	β 细胞
+T24	Anatomy 2925 2929	β 细胞
+T25	Anatomy 3079 3083	β 细胞
+T26	Anatomy 138 139;140 142	β 细胞
+T27	Anatomy 2044 2045;2046 2048	β 细胞
+T28	Anatomy 3067 3068;3069 3071	β 细胞
+T29	Disease 3388 3389;3390 3392	糖 尿病
+T30	Disease 3458 3461	糖尿病
+T31	Disease 3531 3534	糖尿病
+T32	Disease 3560 3563	糖尿病
+T33	Drug 3543 3554	Betatrophin
+T34	Disease 3602 3605	糖尿病
+T35	Disease 22 25	糖尿病
+T36	Disease 44 47	糖尿病
+T37	Disease 75 78	糖尿病
+T38	Disease 92 95	糖尿病
+T39	Test 164 166	血糖
+T40	Disease 176 179	糖尿病
+T41	Disease 222 225	糖尿病
+T42	Disease 317 320	糖尿病
+T43	Anatomy 428 430	胰腺
+T44	Anatomy 649 651	肝脏
+T45	Anatomy 668 679	betatrophin
+T46	Anatomy 1292 1296	胰岛细胞
+T47	Anatomy 1301 1306	内分泌细胞
+T48	Anatomy 1307 1312	外分泌细胞
+T49	Anatomy 1313 1315;1316 1318	导管 细胞
+T50	Anatomy 1320 1323	肝细胞
+T51	Anatomy 1324 1328	白色脂肪
+T52	Anatomy 1329 1335	棕色脂肪细胞
+T53	Anatomy 1355 1366	Betatrophin
+T54	Anatomy 1368 1370	肝脏
+T55	Anatomy 1371 1375	脂肪组织
+T56	Anatomy 1452 1454	肝脏
+T57	Anatomy 1456 1460	白色脂肪
+T58	Anatomy 1462 1465	骨骼肌
+T59	Anatomy 1500 1511	Betatrophin
+T60	Test 1522 1536	Betatrophin 表达
+T61	Test_Value 1536 1538	上调
+T62	Anatomy 1540 1541;1542 1543	肝 脏
+T63	Anatomy 1550 1554	白色脂肪
+T64	Anatomy 1564 1567	骨骼肌
+T65	Anatomy 1568 1570;1571 1572	胰岛 β
+T66	Anatomy 1733 1744	Betatrophin
+T67	Anatomy 1748 1750	肝脏
+T68	Anatomy 1818 1820	肝脏
+T69	Anatomy 1866 1868	肝脏
+T70	Drug 2165 2176	Betatrophin
+T71	Anatomy 2279 2281	肝脏
+T72	Anatomy 2304 2315	Betatrophin
+T73	Anatomy 2660 2662	胰岛
+T74	Anatomy 2777 2779	胰腺
+T75	Anatomy 2826 2829;2830 2831	β 细 胞
+T76	Anatomy 2853 2857	胰腺细胞
+T77	Anatomy 2887 2888;2889 2890	肝 脏
+T78	Anatomy 2891 2895	白色脂肪
+T79	Anatomy 2896 2900	棕色脂肪
+T80	Anatomy 2960 2962	胰岛
+T81	Anatomy 3011 3013	胰岛
+T82	Test 3097 3100	糖耐量
+T83	Test 3145 3148	糖耐量
+T84	Test 3206 3209;3210 3214	胰岛素 耐受试验
+T85	Test 1756 1767	Betatrophin
+T86	Test 2068 2079	Betatrophin
+T87	Test 2102 2113	Betatrophin
+T88	Anatomy 2215 2226	Betatrophin
+T89	Anatomy 2802 2813	Betatrophin
+T90	Anatomy 2838 2849	Betatrophin
+T91	Drug 3252 3263	Betatrophin
+T92	Anatomy 3310 3321	Betatrophin
+T93	Drug 3361 3372	Betatrophin
+T94	Test 1033 1036	PCR
+T95	Test 986 987;988 989	血 糖
+T96	Reason 3192 3197	胰岛素抵抗
+T97	Disease 3221 3226	胰岛素抵抗
+T98	Symptom 447 449	妊娠
+T99	Symptom 454 458	胰腺损伤
+T100	Symptom 459 461;462 467	外周 胰岛素抵抗
+T101	Anatomy 806 809	胰岛素
+T102	Level 856 858	严重
+T103	Disease 858 863	胰岛素抵抗
+T104	Anatomy 891 896	胰岛素受体
+T105	Anatomy 910 917	多肽-S961
+T106	Anatomy 1629 1635	Gm6484
+T107	Anatomy 1640 1648	EG624219
+T108	Anatomy 1660 1668	C19orf80
+T109	Anatomy 1670 1678	肝细胞癌相关蛋白
+T110	Symptom 2006 2008	妊娠
+T111	Drug 2027 2031	白喉毒素
+T112	Anatomy 2086 2088	肝脏
+T113	Disease 2202 2208	起胰岛素抵抗
+T114	Method 2249 2255	静脉高压注射
+T116	Method 2377 2379	注射
+T117	Method 2468 2470	注射
+T118	Method 2685 2687	注射
+T119	Method 2556 2558	注射
+T120	Duration 2733 2734;2735 2737	8 天后
+T121	Method 2750 2752	注射
+T122	Test 2780 2786	胰岛素总含量
+T123	Test_Value 2787 2794;2795 2796	增加 (约 2 倍
+T124	Method 2952 2954	注射
+T125	Method 3002 3004	注射
+T126	Method 3060 3062	注射
+T127	Method 3123 3125	注射
+T128	Test_Value 3136 3137	低
+T129	Level 3148 3150	改善
+T130	Disease 3354 3359	胰岛素抵抗
+T131	Anatomy 779 781	肝脏
+T132	Anatomy 1055 1057	胰岛
+T133	Test_Value 1546 1549	4 倍
+T134	Test_Value 1557 1560	3 倍
+T135	Test_Value 1782 1790	高出 250 倍
+T136	Drug 1832 1845	胰岛素受体拮抗剂 S961
+T137	Test_Value 1883 1884;1885 1890	上 调 6 倍
+T138	Test_Value 1900 1906	上调 4 倍
+T139	Anatomy 1952 1954	肝脏
+T140	Test_Value 1956 1958	上调
+T141	Test_Value 1984 1988;1989 1990	上调 3 倍
+T142	Test_Value 1992 1995	4 倍
+T143	Test_Value 2012 2017;2018 2019	增加 20 倍
+T144	Anatomy 2293 2296	肝细胞
+T145	Test_Value 2404 2409	4. 6%
+T146	Test_Value 2436 2440	复制速率
+T147	Test_Value 2445 2450	8. 8%
+T148	Anatomy 2603 2605	胰岛
+T149	Test 3271 3272;3273 3283	胰 岛素 耐 受 试 验
+T150	Reason 191 204	胰岛 β 细胞数量相对不足
+T151	Anatomy 472 479	胰岛 β 细胞
+T152	Anatomy 698 705	胰岛 β 细胞
+T153	Anatomy 767 768;769 775	胰 岛 β 细胞
+T154	Anatomy 791 798	胰岛 β 细胞
+T155	Anatomy 830 837	胰岛 β 细胞
+T156	Anatomy 1253 1260	胰岛 β 细胞
+T157	Anatomy 1384 1391	胰岛 β 细胞
+T158	Anatomy 1850 1851;1852 1858	胰 岛 β 细胞
+T159	Anatomy 1997 2001	β 细胞
+T160	Anatomy 2034 2038	β 细胞
+T161	Anatomy 2118 2125	胰岛 β 细胞
+T162	Anatomy 2233 2240	胰腺 β 细胞
+T163	Anatomy 2369 2373	β 细胞
+T164	Test 2755 2763	总胰岛 β 细胞
+T165	Anatomy 3174 3181	胰岛 β 细胞
+T166	Anatomy 3334 3341	胰腺 β 细胞
+T167	Treatment 3420 3427	胰岛干细胞移植
+T168	Drug 6 17	Betatrophin
+T169	Symptom 450 453	高血糖
+T170	Anatomy 652 656	脂肪组织
+T171	Test 957 960;961 965	β 细 胞增生率
+T172	Anatomy 1582 1595	Betatropin 基因
+T173	Test 1869 1880	Betatrophin
+T174	Anatomy 1891 1897	白色脂肪组织
+T175	Drug 2260 2271	Betatrophin
+T176	Anatomy 2339 2350	Betatrophin
+T177	Drug 2381 2392	Betatrophin
+T178	Drug 2471 2482	Betatrophin
+T179	Drug 2673 2684	Betatrophin
+T180	Drug 2544 2555	Betatrophin
+T181	Drug 2738 2749	Betatrophin
+T182	Anatomy 2868 2880	非 β 细胞的内分泌细胞
+T183	Drug 2940 2951	Betatrophin
+T184	Drug 2990 3001	Betatrophin
+T185	Drug 3048 3059	Betatrophin
+T186	Drug 3111 3122	Betatrophin
+T187	Drug 3160 3171	Betatrophin
+T188	Test 1803 1814	Betatrophin
+T189	Test 1932 1943	Betatrophin
+T192	Disease 587 592	胰岛素抵抗
+T193	Disease 980 985	胰岛素抵抗
+T194	Drug 1182 1186	S961
+T195	Drug 1239 1243	S961
+T196	Drug 1276 1280	S961
+T115	Anatomy 2560 2562	胰岛
+T190	Drug 3228 3232	S961
+R1	Anatomy_Disease Arg1:T14 Arg2:T2
+R2	Anatomy_Disease Arg1:T139 Arg2:T2
+R3	Anatomy_Disease Arg1:T166 Arg2:T29
+R4	Anatomy_Disease Arg1:T92 Arg2:T29
+R5	Anatomy_Disease Arg1:T26 Arg2:T38
+R6	Anatomy_Disease Arg1:T5 Arg2:T42
+R7	Anatomy_Disease Arg1:T43 Arg2:T42
+R8	Anatomy_Disease Arg1:T69 Arg2:T2
+R9	Drug_Disease Arg1:T33 Arg2:T32
+R10	Drug_Disease Arg1:T168 Arg2:T35
+R11	Test_Disease Arg1:T39 Arg2:T40
+R12	Anatomy_Disease Arg1:T6 Arg2:T42
+R13	Anatomy_Disease Arg1:T7 Arg2:T42
+R14	Anatomy_Disease Arg1:T9 Arg2:T192
+R15	Anatomy_Disease Arg1:T44 Arg2:T192
+R16	Anatomy_Disease Arg1:T170 Arg2:T192
+R17	Anatomy_Disease Arg1:T45 Arg2:T192
+R18	Anatomy_Disease Arg1:T152 Arg2:T192
+R19	Anatomy_Disease Arg1:T10 Arg2:T192
+R20	Anatomy_Disease Arg1:T155 Arg2:T103
+R21	Anatomy_Disease Arg1:T101 Arg2:T103
+R22	Anatomy_Disease Arg1:T154 Arg2:T103
+R23	Anatomy_Disease Arg1:T131 Arg2:T103
+R24	Anatomy_Disease Arg1:T153 Arg2:T103
+R25	Anatomy_Disease Arg1:T104 Arg2:T103
+R26	Anatomy_Disease Arg1:T105 Arg2:T103
+R27	Test_Disease Arg1:T171 Arg2:T103
+R28	Test_Disease Arg1:T95 Arg2:T193
+R29	Anatomy_Disease Arg1:T11 Arg2:T193
+R30	Anatomy_Disease Arg1:T132 Arg2:T193
+R31	Test_Disease Arg1:T94 Arg2:T193
+R32	Test_Disease Arg1:T189 Arg2:T2
+R33	Anatomy_Disease Arg1:T159 Arg2:T2
+R34	Symptom_Disease Arg1:T110 Arg2:T2
+R35	Drug_Disease Arg1:T70 Arg2:T113
+R36	Method_Drug Arg1:T116 Arg2:T177
+R37	Method_Drug Arg1:T114 Arg2:T175
+R38	Drug_Disease Arg1:T175 Arg2:T113
+R39	Method_Drug Arg1:T117 Arg2:T178
+R40	Method_Drug Arg1:T119 Arg2:T180
+R41	Method_Drug Arg1:T118 Arg2:T179
+R42	Duration_Drug Arg1:T120 Arg2:T181
+R43	Method_Drug Arg1:T121 Arg2:T181
+R44	Method_Drug Arg1:T124 Arg2:T183
+R45	Method_Drug Arg1:T125 Arg2:T184
+R46	Method_Drug Arg1:T126 Arg2:T185
+R47	Method_Drug Arg1:T127 Arg2:T186
+R48	Test_Disease Arg1:T84 Arg2:T97
+R49	Test_Disease Arg1:T149 Arg2:T97
+R50	Drug_Disease Arg1:T91 Arg2:T97
+R51	Drug_Disease Arg1:T190 Arg2:T97
+R52	Drug_Disease Arg1:T93 Arg2:T29
+R53	Anatomy_Disease Arg1:T93 Arg2:T29
+R54	Anatomy_Disease Arg1:T189 Arg2:T2
+R55	Symptom_Disease Arg1:T130 Arg2:T29
+R56	Treatment_Disease Arg1:T167 Arg2:T1
