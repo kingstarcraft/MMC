@@ -4,6 +4,7 @@ import pickle
 import models.config as config
 import bert_resnet
 import dataset
+import optimization
 
 flags = tf.flags
 flags.DEFINE_string('train_dir', './cache/data/train', 'Directory to train dataset.')
@@ -25,9 +26,8 @@ flags.DEFINE_integer('num_gpu', 1, 'Num gpu used.')
 FLAGS = flags.FLAGS
 
 
-def average_gradients(gradients):
+def average_gradients(gradients, clip_norm=1.0):
   outputs = []
-
   for grad_and_vars in zip(*gradients):
     grads = []
     for g, _ in grad_and_vars:
@@ -37,6 +37,8 @@ def average_gradients(gradients):
     grad = tf.concat(axis=0, values=grads)
     grad = tf.reduce_mean(grad, 0)
     v = grad_and_vars[0][2]
+    if clip_norm is not None:
+      grads, _ = tf.clip_by_global_norm(grads, clip_norm=clip_norm)
     grad_and_var = (grad, v)
     outputs.append(grad_and_var)
   return outputs
@@ -60,7 +62,10 @@ def main(_):
     losses = []
     gradients = []
 
-    optimizer = tf.train.AdamOptimizer(FLAGS.learning_rate)
+    optimizer = optimization.create_optimizer(FLAGS.learning_rate,
+                                              FLAGS.max_train_step,
+                                              FLAGS.num_warmup_steps,
+                                              global_step)
     with tf.variable_scope(tf.get_variable_scope()):
       for i in range(FLAGS.num_gpu):
         with tf.device("/gpu:%d" % i):
@@ -80,9 +85,8 @@ def main(_):
     update_ops = tf.get_collection(tf.GraphKeys.UPDATE_OPS)
     with tf.control_dependencies(update_ops):
       train_op = optimizer.apply_gradients(gradients, global_step=global_step)
-
     saver = tf.train.Saver()
-    train_datasets = dataset.Dataset(train_dir)
+    train_datasets = dataset.Dataset(FLAGS.train_dir)
 
     with tf.Session() as sess:
       sess.run(tf.global_variables_initializer())
