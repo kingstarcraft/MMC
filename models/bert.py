@@ -20,14 +20,15 @@ from __future__ import print_function
 
 import collections
 import copy
-import json
 import math
 import re
 import six
+import models.config as config
+import models.utils as utils
 import tensorflow as tf
 
 
-class BertConfig(object):
+class BertConfig(config.Base):
   """Configuration for `BertModel`."""
 
   def __init__(self,
@@ -66,6 +67,7 @@ class BertConfig(object):
       initializer_range: The stdev of the truncated_normal_initializer for
         initializing all weight matrices.
     """
+    super(BertConfig, self).__init__()
     self.vocab_size = vocab_size
     self.hidden_size = hidden_size
     self.num_hidden_layers = num_hidden_layers
@@ -77,37 +79,6 @@ class BertConfig(object):
     self.max_position_embeddings = max_position_embeddings
     self.type_vocab_size = type_vocab_size
     self.initializer_range = initializer_range
-
-  def __str__(self):
-    buff = 'Bert Config: \n'
-    for key, var in vars(self).items():
-      buff += "  %s: %s.\n" % (key, var)
-    return buff
-
-
-  @classmethod
-  def from_dict(cls, json_object):
-    """Constructs a `BertConfig` from a Python dictionary of parameters."""
-    config = BertConfig(vocab_size=None)
-    for (key, value) in six.iteritems(json_object):
-      config.__dict__[key] = value
-    return config
-
-  @classmethod
-  def from_json_file(cls, json_file):
-    """Constructs a `BertConfig` from a json file of parameters."""
-    with tf.gfile.GFile(json_file, "r") as reader:
-      text = reader.read()
-    return cls.from_dict(json.loads(text))
-
-  def to_dict(self):
-    """Serializes this instance to a Python dictionary."""
-    output = copy.deepcopy(self.__dict__)
-    return output
-
-  def to_json_string(self):
-    """Serializes this instance to a JSON string."""
-    return json.dumps(self.to_dict(), indent=2, sort_keys=True) + "\n"
 
 
 class BertModel(object):
@@ -140,13 +111,14 @@ class BertModel(object):
                input_ids,
                input_mask=None,
                token_type_ids=None,
+               token_position_ids=None,
                use_one_hot_embeddings=True,
                scope=None):
     """Constructor for BertModel.
 
     Args:
       config: `BertConfig` instance.
-      is_training: bool. rue for training model, false for eval model. Controls
+      is_training: bool or tensor. rue for training model, false for eval model. Controls
         whether dropout will be applied.
       input_ids: int32 Tensor of shape [batch_size, seq_length].
       input_mask: (optional) int32 Tensor of shape [batch_size, seq_length].
@@ -162,9 +134,17 @@ class BertModel(object):
         is invalid.
     """
     config = copy.deepcopy(config)
-    if not is_training:
-      config.hidden_dropout_prob = 0.0
-      config.attention_probs_dropout_prob = 0.0
+    if isinstance(is_training, bool):
+      if is_training:
+        hidden_dropout_prob, attention_probs_dropout_prob = config.hidden_dropout_prob, config.attention_probs_dropout_prob
+      else:
+        hidden_dropout_prob, attention_probs_dropout_prob = 0.0, 0.0
+    else:
+      hidden_dropout_prob, \
+      attention_probs_dropout_prob = tf.cond(is_training,
+                                             lambda: (tf.constant(config.hidden_dropout_prob),
+                                                      tf.constant(config.attention_probs_dropout_prob)),
+                                             lambda: (tf.constant(0.0), tf.constant(0.0)))
 
     input_shape = get_shape_list(input_ids, expected_rank=2)
     batch_size = input_shape[0]
@@ -186,6 +166,15 @@ class BertModel(object):
           initializer_range=config.initializer_range,
           word_embedding_name="word_embeddings",
           use_one_hot_embeddings=use_one_hot_embeddings)
+        if token_position_ids is not None:
+          token_position_embedding_output, _ = embedding_lookup(
+            input_ids=input_ids,
+            vocab_size=config.vocab_size,
+            embedding_size=config.hidden_size,
+            initializer_range=config.initializer_range,
+            word_embedding_name="token_position_embeddings",
+            use_one_hot_embeddings=True)
+          self.embedding_output += token_position_embedding_output
 
         # Add positional embeddings and token type embeddings, then layer
         # normalize and perform dropout.
@@ -199,7 +188,7 @@ class BertModel(object):
           position_embedding_name="position_embeddings",
           initializer_range=config.initializer_range,
           max_position_embeddings=config.max_position_embeddings,
-          dropout_prob=config.hidden_dropout_prob)
+          dropout_prob=hidden_dropout_prob)
 
       with tf.variable_scope("encoder"):
         # This converts a 2D mask of shape [batch_size, seq_length] to a 3D
@@ -217,9 +206,9 @@ class BertModel(object):
           num_hidden_layers=config.num_hidden_layers,
           num_attention_heads=config.num_attention_heads,
           intermediate_size=config.intermediate_size,
-          intermediate_act_fn=get_activation(config.hidden_act),
-          hidden_dropout_prob=config.hidden_dropout_prob,
-          attention_probs_dropout_prob=config.attention_probs_dropout_prob,
+          intermediate_act_fn=utils.get_activation(config.hidden_act),
+          hidden_dropout_prob=hidden_dropout_prob,
+          attention_probs_dropout_prob=attention_probs_dropout_prob,
           initializer_range=config.initializer_range,
           do_return_all_layers=True)
 
@@ -237,7 +226,7 @@ class BertModel(object):
           first_token_tensor,
           config.hidden_size,
           activation=tf.tanh,
-          kernel_initializer=create_initializer(config.initializer_range))
+          kernel_initializer=utils.create_initializer(config.initializer_range))
 
   def get_pooled_output(self):
     return self.pooled_output
@@ -267,59 +256,6 @@ class BertModel(object):
 
   def get_embedding_table(self):
     return self.embedding_table
-
-
-def gelu(input_tensor):
-  """Gaussian Error Linear Unit.
-
-  This is a smoother version of the RELU.
-  Original paper: https://arxiv.org/abs/1606.08415
-
-  Args:
-    input_tensor: float Tensor to perform activation.
-
-  Returns:
-    `input_tensor` with the GELU activation applied.
-  """
-  cdf = 0.5 * (1.0 + tf.erf(input_tensor / tf.sqrt(2.0)))
-  return input_tensor * cdf
-
-
-def get_activation(activation_string):
-  """Maps a string to a Python function, e.g., "relu" => `tf.nn.relu`.
-
-  Args:
-    activation_string: String name of the activation function.
-
-  Returns:
-    A Python function corresponding to the activation function. If
-    `activation_string` is None, empty, or "linear", this will return None.
-    If `activation_string` is not a string, it will return `activation_string`.
-
-  Raises:
-    ValueError: The `activation_string` does not correspond to a known
-      activation.
-  """
-
-  # We assume that anything that"s not a string is already an activation
-  # function, so we just return it.
-  if not isinstance(activation_string, six.string_types):
-    return activation_string
-
-  if not activation_string:
-    return None
-
-  act = activation_string.lower()
-  if act == "linear":
-    return None
-  elif act == "relu":
-    return tf.nn.relu
-  elif act == "gelu":
-    return gelu
-  elif act == "tanh":
-    return tf.tanh
-  else:
-    raise ValueError("Unsupported activation: %s" % act)
 
 
 def get_assignment_map_from_checkpoint(tvars, init_checkpoint):
@@ -380,11 +316,6 @@ def layer_norm_and_dropout(input_tensor, dropout_prob, name=None):
   return output_tensor
 
 
-def create_initializer(initializer_range=0.02):
-  """Creates a `truncated_normal_initializer` with the given range."""
-  return tf.truncated_normal_initializer(stddev=initializer_range)
-
-
 def embedding_lookup(input_ids,
                      vocab_size,
                      embedding_size=128,
@@ -418,7 +349,7 @@ def embedding_lookup(input_ids,
   embedding_table = tf.get_variable(
     name=word_embedding_name,
     shape=[vocab_size, embedding_size],
-    initializer=create_initializer(initializer_range))
+    initializer=utils.create_initializer(initializer_range))
 
   if use_one_hot_embeddings:
     flat_input_ids = tf.reshape(input_ids, [-1])
@@ -485,7 +416,7 @@ def embedding_postprocessor(input_tensor,
     token_type_table = tf.get_variable(
       name=token_type_embedding_name,
       shape=[token_type_vocab_size, width],
-      initializer=create_initializer(initializer_range))
+      initializer=utils.create_initializer(initializer_range))
     # This vocab will be small so we always do one-hot here, since it is always
     # faster for a small vocabulary.
     flat_token_type_ids = tf.reshape(token_type_ids, [-1])
@@ -501,7 +432,7 @@ def embedding_postprocessor(input_tensor,
       full_position_embeddings = tf.get_variable(
         name=position_embedding_name,
         shape=[max_position_embeddings, width],
-        initializer=create_initializer(initializer_range))
+        initializer=utils.create_initializer(initializer_range))
       # Since the position embedding table is a learned variable, we create it
       # using a (long) sequence length `max_position_embeddings`. The actual
       # sequence length might be shorter than this, for faster training of
@@ -677,7 +608,7 @@ def attention_layer(from_tensor,
     num_attention_heads * size_per_head,
     activation=query_act,
     name="query",
-    kernel_initializer=create_initializer(initializer_range))
+    kernel_initializer=utils.create_initializer(initializer_range))
 
   # `key_layer` = [B*T, N*H]
   key_layer = tf.layers.dense(
@@ -685,7 +616,7 @@ def attention_layer(from_tensor,
     num_attention_heads * size_per_head,
     activation=key_act,
     name="key",
-    kernel_initializer=create_initializer(initializer_range))
+    kernel_initializer=utils.create_initializer(initializer_range))
 
   # `value_layer` = [B*T, N*H]
   value_layer = tf.layers.dense(
@@ -693,7 +624,7 @@ def attention_layer(from_tensor,
     num_attention_heads * size_per_head,
     activation=value_act,
     name="value",
-    kernel_initializer=create_initializer(initializer_range))
+    kernel_initializer=utils.create_initializer(initializer_range))
 
   # `query_layer` = [B, N, F, H]
   query_layer = transpose_for_scores(query_layer, batch_size,
@@ -766,7 +697,7 @@ def transformer_model(input_tensor,
                       num_hidden_layers=12,
                       num_attention_heads=12,
                       intermediate_size=3072,
-                      intermediate_act_fn=gelu,
+                      intermediate_act_fn=utils.gelu,
                       hidden_dropout_prob=0.1,
                       attention_probs_dropout_prob=0.1,
                       initializer_range=0.02,
@@ -867,7 +798,7 @@ def transformer_model(input_tensor,
           attention_output = tf.layers.dense(
             attention_output,
             hidden_size,
-            kernel_initializer=create_initializer(initializer_range))
+            kernel_initializer=utils.create_initializer(initializer_range))
           attention_output = dropout(attention_output, hidden_dropout_prob)
           attention_output = layer_norm(attention_output + layer_input)
 
@@ -877,14 +808,14 @@ def transformer_model(input_tensor,
           attention_output,
           intermediate_size,
           activation=intermediate_act_fn,
-          kernel_initializer=create_initializer(initializer_range))
+          kernel_initializer=utils.create_initializer(initializer_range))
 
       # Down-project back to `hidden_size` then add the residual.
       with tf.variable_scope("output"):
         layer_output = tf.layers.dense(
           intermediate_output,
           hidden_size,
-          kernel_initializer=create_initializer(initializer_range))
+          kernel_initializer=utils.create_initializer(initializer_range))
         layer_output = dropout(layer_output, hidden_dropout_prob)
         layer_output = layer_norm(layer_output + attention_output)
         prev_output = layer_output
