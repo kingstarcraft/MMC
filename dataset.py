@@ -4,6 +4,7 @@ import random
 import pickle
 import time
 import brat
+import glog
 
 
 class Dataset(multiprocessing.Process):
@@ -59,6 +60,7 @@ class Dataset(multiprocessing.Process):
           self._count = 0
         if self._count == 0:
           random.shuffle(self._filepaths)
+        glog.info('Loading data from %s.' % self._filepaths[self._count])
         buff = pickle.load(open(self._filepaths[self._count], 'rb'))
         samples, _ = brat.create_samples(
           buff['words'],
@@ -107,11 +109,19 @@ class Dataset(multiprocessing.Process):
     neg_totals = len(self._y_negative_buffer)
     num_pos = int(numbel * pos_totals / (pos_totals + neg_totals))
     num_neg = numbel - num_pos
-    pos_xs = self._x_positive_buffer[num_pos:]
-    pos_ys = self._y_positive_buffer[num_pos:]
-    neg_xs = self._x_negative_buffer[num_neg:]
-    neg_ys = self._y_negative_buffer[num_neg:]
-    return zip(pos_xs, pos_ys), zip(neg_xs, neg_ys)
+    pos_xs = self._x_positive_buffer[:num_pos]
+    pos_ys = self._y_positive_buffer[:num_pos]
+    neg_xs = self._x_negative_buffer[:num_neg]
+    neg_ys = self._y_negative_buffer[:num_neg]
+    glog.info('Reading data: pos=%d/%d neg=%d/%d.' %
+              (num_pos, len(self._y_positive_buffer), num_neg, len(self._y_negative_buffer)))
+    self._buffer_lock.acquire(True)
+    self._x_positive_buffer[:] = self._x_positive_buffer[num_pos:]
+    self._y_positive_buffer[:] = self._y_positive_buffer[num_pos:]
+    self._x_negative_buffer[:] = self._x_negative_buffer[num_neg:]
+    self._y_negative_buffer[:] = self._y_negative_buffer[num_neg:]
+    self._buffer_lock.release()
+    return pos_xs, pos_ys, neg_xs, neg_ys
 
 #  def Evalute(self, s):
 #    count = 0

@@ -52,6 +52,8 @@ def main(_):
   resnet_config = None
   if os.path.exists(FLAGS.config_path):
     resnet_config = config.Base.from_json_file(FLAGS.resnet_config_path)
+  train_datasets = dataset.Dataset(FLAGS.train_dir, FLAGS.max_distance, FLAGS.sequence_length)
+  train_datasets.Start()
 
   with tf.device("/cpu:0"):
     inputs = tf.placeholder(shape=[None, 4, FLAGS.sequence_length], dtype=tf.int32)
@@ -86,7 +88,6 @@ def main(_):
     with tf.control_dependencies(update_ops):
       train_op = optimizer.apply_gradients(gradients, global_step=global_step)
     saver = tf.train.Saver()
-    train_datasets = dataset.Dataset(FLAGS.train_dir)
 
     with tf.Session() as sess:
       sess.run(tf.global_variables_initializer())
